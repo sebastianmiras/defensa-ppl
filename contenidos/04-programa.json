@@ -1,0 +1,105 @@
+{
+  "id": "programa",
+  "title": "Programa de la asignatura 17104",
+  "description": "Una arquitectura de contenidos, prácticas y evaluación.",
+  "subtitle": "De los propósitos a las experiencias de aprendizaje.",
+  "number": "IV",
+  "color": "#a48b55",
+  "revision": 21,
+  "sections": [
+    {
+      "id": "arquitectura",
+      "title": "Identidad y ubicación curricular",
+      "lead": "Didáctica de la Lengua Castellana y Literatura en Educación Infantil",
+      "body": "**Asignatura 17104 · Grado en Maestro/a en Educación Infantil**\n\n| Ubicación y carga | Datos |\n| Curso | 1.º · segundo semestre |\n| Carácter | Obligatoria |\n| Créditos | 6 ECTS |\n| Carga total | 150 horas |\n\n30 horas teóricas · 30 horas prácticas · 90 horas de trabajo no presencial.\n\n**Dos ámbitos fundamentales: educación lingüística y educación literaria.**\n\nFuente: Guía docente 17104 (2026–2027) y Memoria Verificada del Grado, según el programa docente.\n\nLa posición inicial de la asignatura en el Grado le confiere la función de transformar el conocimiento lingüístico y literario en conocimiento profesional para la intervención educativa.",
+      "image": "",
+      "caption": "",
+      "badge": "00:00–00:45",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "objetivos-competencias",
+      "title": "Objetivos y competencias: concreción de la propuesta",
+      "lead": "Objetivos formativos y competencias",
+      "body": "| Elemento | Número | Alcance |\n| Objetivos formativos | 13 | Recogidos en la guía docente |\n| Objetivos específicos | 9 | Concreción de la propuesta |\n| Competencias | 20 | 8 generales y 12 específicas |\n\n**Prioridades de los objetivos específicos**\n\n- Oralidad, interacción y diversidad lingüística.\n- Educación literaria, selección de literatura infantil y juvenil y mediación.\n- Tradición oral, álbum ilustrado y alfabetización multimodal.\n- Uso crítico de tecnologías y diseño didáctico inclusivo.\n\nReferencias: Objetivos y Competencias oficiales de la Guía docente y la Memoria Verificada del Grado.\n\nLas competencias oficiales se mantienen. La aportación de la propuesta consiste en concretar los objetivos y articularlos mediante contenidos, actividades y evaluación.",
+      "image": "",
+      "caption": "",
+      "badge": "00:45–01:45",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "organizacion-contenidos",
+      "title": "Propuesta de organización de contenidos",
+      "lead": "Cinco temas para articular la formación lingüística y literaria",
+      "body": "**TEMA 1 · MARCO DISCIPLINAR**\n\nDidáctica de la Lengua y la Literatura en Educación Infantil.\n\n**EDUCACIÓN LITERARIA**\n\n| Tema | Desarrollo |\n| T2 · Educación literaria | Literatura infantil y juvenil, mediación y formación del lector |\n| T3 · Narrativa y poesía | Formas literarias para la infancia |\n| T4 · Álbum ilustrado | Alfabetización visual y multimodalidad |\n\n**EDUCACIÓN LINGÜÍSTICA**\n\n| Tema | Desarrollo |\n| T5 · Educación lingüística | Competencia comunicativa |\n\nEl programa mantiene los dos ámbitos de la asignatura y otorga una entidad específica a contenidos que antes aparecían agrupados. El Tema 1 establece el marco común; los Temas 2–4 desarrollan la educación literaria y el Tema 5 explicita la educación lingüística.",
+      "image": "",
+      "caption": "",
+      "badge": "01:45–03:00",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "practicas",
+      "title": "Metodología y prácticas",
+      "lead": "Metodología teórico-práctica, comunicativa y reflexiva",
+      "body": "El alumnado aplica los conceptos al análisis de obras y situaciones educativas y justifica sus decisiones didácticas.\n\n**Analizar → Interpretar → Seleccionar → Diseñar → Justificar**\n\n**Principales actividades prácticas**\n\n| Prácticas individuales | Prácticas grupales |\n| Reseña crítica de LIJ | Lectura y debate de LIJ |\n| Reconstrucción visual de *Cendrillon* | Lírica popular infantil |\n| IV Jornadas de Narrativas Gráficas | Guía de lectura |\n| — | Elaboración de un libro ilustrado |\n| — | Diseño de una situación comunicativa |\n\nReferencias: Memoria Verificada del Grado, especialmente el trabajo cooperativo y la reflexión sobre la práctica (CE14).\n\nLa teoría proporciona herramientas de análisis y las prácticas permiten aplicarlas y revisarlas. El libro ilustrado, *Cendrillon* y las Jornadas conectan la propuesta con las líneas de innovación expuestas en el bloque III.",
+      "image": "",
+      "caption": "",
+      "badge": "03:00–04:10",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "lecturas-recursos",
+      "title": "Lecturas y recursos para la formación del mediador",
+      "lead": "La lectura como objeto de estudio y procedimiento de aprendizaje",
+      "body": "**12 obras · Lecturas obligatorias**\n\nCorpus común que forma parte de la prueba teórica.\n\n**Corpus ampliado · Lecturas para las prácticas**\n\nSelección justificada de obras para análisis y mediación.\n\n**Recursos fundamentales**\n\n- Contacto directo con obras y materiales de literatura infantil y juvenil.\n- Bibliotecas y fuentes académicas.\n- UACloud como entorno de organización y seguimiento.\n- IV Jornadas Narrativas Gráficas para la Infancia.\n\n**Formar criterios propios de selección y mediación literaria.**\n\nCuatro obras del corpus obligatorio que pueden funcionar como apoyo visual:\n\n- *La sorpresa de Nandi*.\n- *Dos tortugas y un sombrero*.\n- *¡No interrumpas, Kika!*.\n- *Ricitos de oso*.",
+      "image": "",
+      "caption": "",
+      "badge": "04:10–05:15",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "temporalizacion",
+      "title": "Temporalización del curso 2026–2027",
+      "lead": "26 de enero–20 de mayo de 2027 · 30 sesiones de 2 horas",
+      "body": "| Periodo | Contenido | Horas |\n| 26 ene.–4 feb. | Presentación y Tema 1 | 8 |\n| 9–25 feb. | Tema 2 · Educación literaria | 12 |\n| 2–18 mar. | Tema 3 · Narrativa y poesía | 12 |\n| 23 mar.–22 abr. | Tema 4 · Álbum ilustrado | 12 |\n| 27 abr.–13 may. | Tema 5 · Educación lingüística | 12 |\n| 18–20 may. | Síntesis y presentación de trabajos | 4 |\n\nLas prácticas se programan después de trabajar los fundamentos necesarios para realizarlas.\n\nLos cuatro temas posteriores al introductorio disponen de doce horas cada uno. Las dos últimas sesiones permiten sintetizar los aprendizajes y presentar trabajos.",
+      "image": "",
+      "caption": "",
+      "badge": "05:15–06:25",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "evaluacion",
+      "title": "Sistema de evaluación",
+      "lead": "La evaluación responde a las actividades y a los aprendizajes previstos",
+      "body": "**Distribución de la calificación final**\n\n| Componente | Peso |\n| Prueba escrita | 50 % |\n| Trabajo individual | 25 % |\n| Trabajo grupal | 25 % |\n\n**Trabajo individual · 25 %**\n\n| Actividad | Peso |\n| Reseña crítica de LIJ | 15 % |\n| *Cendrillon* | 5 % |\n| IV Jornadas | 5 % |\n\n**Trabajo grupal · 25 %**\n\n| Actividad | Peso |\n| Lectura y debate de LIJ | 2,5 % |\n| Lírica popular | 5 % |\n| Guía de lectura | 5 % |\n| Libro ilustrado | 7,5 % |\n| Situación comunicativa | 5 % |\n\n| Condición | Exigencia |\n| Calificación final para superar la asignatura | ≥ 5/10 |\n| Mínimo en cada parte teórica y práctica | ≥ 4/10 |\n| Asistencia a sesiones prácticas evaluables | 80 % |\n\nReferencias: Guía docente 17104 y Reglamento para la evaluación de los aprendizajes de la UA (Consejo de Gobierno, 24-07-2025), especialmente art. 4.6.\n\nLa propuesta contempla una modalidad de evaluación final para quienes no puedan seguir el sistema continuo. También establece criterios de corrección lingüística, autoría e integridad académica e indicaciones sobre los usos permitidos de herramientas de inteligencia artificial.\n\nEsta regulación se fundamenta además en el Reglamento de régimen disciplinario del estudiantado de la Universidad de Alicante, aprobado el 18 de junio de 2026. La asistencia mínima del 80 % se refiere a las sesiones prácticas o seminarios en los que se realizan actividades evaluables, conforme al artículo 4.6 del Reglamento de evaluación.",
+      "image": "",
+      "caption": "",
+      "badge": "06:25–08:00",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    }
+  ],
+  "illustrations": [
+    {
+      "image": "assets/pedro-infancia-v1.png",
+      "caption": ""
+    },
+    {
+      "image": "assets/pedro-interior-v1.png",
+      "caption": ""
+    }
+  ]
+}

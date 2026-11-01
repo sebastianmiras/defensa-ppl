@@ -1,0 +1,190 @@
+{
+  "palette": {
+    "label": "Paleta de la página (fondo, texto, texto secundario, líneas, acento)",
+    "selector": "body",
+    "properties": [
+      "--paper",
+      "--ink",
+      "--muted",
+      "--line",
+      "--accent"
+    ]
+  },
+  "title": {
+    "label": "Título principal y sus líneas",
+    "selector": "#readTitle, #readTitle em",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform",
+      "margin-top",
+      "margin-bottom",
+      "padding-top",
+      "padding-bottom"
+    ]
+  },
+  "lead": {
+    "label": "Introducción o idea principal",
+    "selector": "#readLead",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform",
+      "margin-top",
+      "margin-bottom",
+      "padding-top",
+      "padding-bottom",
+      "max-width"
+    ]
+  },
+  "body": {
+    "label": "Texto del desarrollo",
+    "selector": "#readBody",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform",
+      "margin-top",
+      "margin-bottom",
+      "padding-top",
+      "padding-bottom",
+      "max-width"
+    ]
+  },
+  "blockTitle": {
+    "label": "Títulos de los libros y del bloque",
+    "selector": ".cover-title, .sidebar h2",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform"
+    ]
+  },
+  "labels": {
+    "label": "Rótulos y antetítulos",
+    "selector": "#app .eyebrow, #app .demo-tag, .cover-top",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform",
+      "background-color",
+      "border-color",
+      "border-radius"
+    ]
+  },
+  "navigation": {
+    "label": "Índice y navegación",
+    "selector": ".section-link, .back-map, .reading-bottom",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform"
+    ]
+  },
+  "footer": {
+    "label": "Textos inferiores y pie de página",
+    "selector": ".atlas-after, .bottom",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform"
+    ]
+  },
+  "caption": {
+    "label": "Pies de figura",
+    "selector": ".image-figure figcaption",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform"
+    ]
+  },
+  "diagram": {
+    "label": "Nodos del diagrama",
+    "selector": ".diagram-node",
+    "properties": [
+      "font-family",
+      "font-size",
+      "font-weight",
+      "font-style",
+      "line-height",
+      "letter-spacing",
+      "color",
+      "text-align",
+      "text-transform",
+      "background-color",
+      "border-color",
+      "border-radius",
+      "padding"
+    ]
+  },
+  "layout": {
+    "label": "Espaciado del contenido",
+    "selector": ".atlas, .reading",
+    "properties": [
+      "margin-top",
+      "margin-bottom",
+      "padding-top",
+      "padding-bottom",
+      "padding-left",
+      "padding-right"
+    ]
+  },
+  "image": {
+    "label": "Figura principal",
+    "selector": ".image-figure img",
+    "properties": [
+      "max-width",
+      "border-radius",
+      "opacity"
+    ]
+  }
+}

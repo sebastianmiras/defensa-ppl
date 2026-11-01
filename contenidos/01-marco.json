@@ -1,0 +1,73 @@
+{
+  "id": "marco",
+  "title": "Marco institucional, normativo y curricular",
+  "description": "El contexto que da sentido a la propuesta.",
+  "subtitle": "",
+  "number": "I",
+  "color": "#aa6649",
+  "revision": 20,
+  "sections": [
+    {
+      "id": "contexto",
+      "title": "Espacio Europeo de Educación Superior y el sistema universitario español",
+      "lead": "Del EEES a la planificación de la enseñanza universitaria",
+      "body": "**Espacio Europeo de Educación Superior**\n- Sistema ECTS y resultados de aprendizaje.\n- Enseñanza centrada en el estudiante.\n- Garantía de calidad y actualización docente.\n\nBolonia (1999) · ESG (2015) · Comunicado de Tirana (2024).\n\n**Sistema universitario español**\n- LOSU: funciones y principios de la docencia universitaria.\n- Ordenación de las enseñanzas oficiales.\n- Coherencia entre formación y evaluación.\n\nLOSU 2/2023, arts. 6 y 33 · RD 822/2021, art. 4.\n\n**Consecuencia para la 17104**\n\nArticular objetivos, competencias, actividades, carga de trabajo y evaluación dentro de una planificación coherente.\n\n**Referencias destacadas**\n- ESG (2015), estándar 1.3: enseñanza, aprendizaje y evaluación centrados en el estudiantado.\n- LOSU, artículo 6: función docente universitaria e innovación.\n- Real Decreto 822/2021, artículo 4: principios que orientan el diseño de las enseñanzas y su coherencia formativa.\n\nEl EEES y la legislación universitaria proporcionan criterios para tomar decisiones sobre el diseño de una asignatura.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "title": "",
+        "blockTitle": "",
+        "navigation": "",
+        "lead": "",
+        "body": ""
+      }
+    },
+    {
+      "id": "referentes",
+      "title": "La Universidad de Alicante: contexto institucional",
+      "lead": "Inserción institucional de la propuesta docente",
+      "body": "**Universidad de Alicante**\n\nEstatutos de 2026 · Facultad de Educación · Departamento de Innovación y Formación Didáctica · Área de Didáctica de la Lengua y la Literatura · Plaza DC05766.\n\n- Docencia.\n- Investigación.\n- Innovación.\n- Transferencia.\n\nDecreto 105/2026, de 3 de julio, del Consell. Estatutos de la Universidad de Alicante, arts. 2, 8 y 109.\n\n| Artículo | Contenido relacionado con la propuesta |\n| Art. 2 | Funciones, fines y principios institucionales |\n| Art. 8 | Organización y funciones de facultades y escuelas |\n| Art. 109 | Innovación como principio de la función docente |\n\nLos Estatutos de la Universidad de Alicante de 2026 constituyen una referencia particularmente oportuna por su reciente aprobación. El Decreto 105/2026 está publicado oficialmente y entró en vigor el 10 de julio de 2026.\n\nLa propuesta se integra en un marco en el que docencia, investigación e innovación mantienen una relación explícita.",
+      "image": "",
+      "caption": "",
+      "badge": ""
+    },
+    {
+      "id": "sintesis",
+      "title": "La asignatura 17104 en el plan de estudios",
+      "lead": "La 17104: función formativa y complementariedad curricular",
+      "body": "**1.º curso · 6 ECTS · Obligatoria**\n\n**17104 · Primer curso**\n- Fundamentos de la Didáctica de la Lengua y la Literatura.\n- Competencia comunicativa y literaria.\n- Literatura infantil y juvenil, formación lectora y mediación.\n\n**17214 · Segundo curso**\n- Habilidades comunicativas.\n- Adquisición y desarrollo del lenguaje.\n- Oralidad y métodos de lectoescritura.\n\n**Progresión y complementariedad entre asignaturas**\n\nOrden ECI/3854/2007 · Memoria Verificada del Grado · Guías docentes 17104 y 17214 (2026–2027).\n\nLa Orden ECI/3854/2007 permite contextualizar las competencias que debe adquirir el futuro maestro de Educación Infantil. La Memoria Verificada y las guías docentes concretan su distribución en el plan de estudios.\n\nLa 17214 profundiza en ámbitos específicos del desarrollo lingüístico y la lectoescritura.",
+      "image": "",
+      "caption": "",
+      "badge": ""
+    },
+    {
+      "id": "curriculo-infantil",
+      "title": "El currículo de Educación Infantil",
+      "lead": "Comunicación, representación y educación literaria en Infantil",
+      "body": "**LOMLOE (2020) · RD 95/2022 · Decreto 100/2022**\n\n**Área: Comunicación y representación de la realidad**\n\n**Comunicación e interacción**\nOralidad, escucha, conversación y expresión.\n\n**Educación literaria**\nTradición oral, lectura compartida y cultura literaria.\n\n**Diversidad de lenguajes**\nRepresentación visual, artística y multimodal.\n\n**Diversidad lingüística y cultural**\nPlurilingüismo y reconocimiento de diferentes repertorios.\n\nLOMLOE 3/2020 · RD 95/2022, anexo II · Decreto 100/2022, área Comunicación y representación de la realidad.\n\n**Referencias normativas**\n- LOMLOE: nueva redacción de los artículos 12 y 14 de la LOE, relativos a la finalidad y los principios pedagógicos de Educación Infantil.\n- Real Decreto 95/2022: concepción globalizada de los aprendizajes y desarrollo de diferentes lenguajes.\n- Decreto 100/2022: concreción autonómica del área Comunicación y representación de la realidad, con seis competencias específicas y tres bloques de saberes.\n\nLa educación lingüística y literaria debe preparar al futuro profesorado para trabajar con diferentes lenguajes y situaciones significativas de comunicación.",
+      "image": "",
+      "caption": "",
+      "badge": ""
+    },
+    {
+      "id": "consecuencias-curriculares",
+      "title": "Consecuencias curriculares para la propuesta docente",
+      "lead": "Principios derivados del marco institucional y curricular",
+      "body": "**01 · Formación profesionalizadora**\nTransformar conocimientos disciplinares en decisiones didácticas.\n\n**02 · Enfoque comunicativo**\nPromover situaciones de interacción y comunicación significativa.\n\n**03 · Educación literaria**\nDesarrollar criterios de selección, interpretación y mediación de literatura infantil y juvenil.\n\n**04 · Diversidad de lenguajes**\nIncorporar la alfabetización visual y multimodal.\n\n**05 · Innovación fundamentada**\nUtilizar críticamente los recursos y tecnologías educativas.\n\nEstos principios proceden de la interpretación del marco institucional y curricular y se desarrollarán posteriormente desde la fundamentación disciplinar.",
+      "image": "",
+      "caption": "",
+      "badge": ""
+    }
+  ],
+  "illustrations": [
+    {
+      "image": "assets/pedro-arbol-v1.png",
+      "caption": ""
+    },
+    {
+      "image": "assets/pedro-paisaje-v1.png",
+      "caption": ""
+    }
+  ]
+}

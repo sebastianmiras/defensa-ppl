@@ -1,0 +1,55 @@
+{
+  "id": "presentacion",
+  "revision": 22,
+  "sections": [
+    {
+      "id": "portada",
+      "title": "Programa docente\nSebastián Miras Espantoso",
+      "lead": "Concurso para la plaza de Profesor/a Permanente Laboral DC05766.",
+      "body": "",
+      "image": "assets/pedro-escritura-v1.png",
+      "caption": "",
+      "eyebrow": "",
+      "badge": "",
+      "bottomText": "",
+      "bottomRange": "",
+      "footerTitle": "Universidad de Alicante, noviembre de 2026",
+      "footerView": "",
+      "footerHint": "Dibujos: Pedro Coiro",
+      "brand": "",
+      "brandSubtitle": "",
+      "brandSymbol": "",
+      "coverLabel": "",
+      "sectionsLabel": "apartados",
+      "backLabel": "Volver al índice general",
+      "previousLabel": "Anterior",
+      "nextSectionLabel": "Siguiente apartado",
+      "nextBlockLabel": "Siguiente bloque",
+      "readerHint": "Dibujos: Pedro Coiro",
+      "blockLabel": "BLOQUE",
+      "sectionLabel": "APARTADO",
+      "enlargeLabel": "Ampliar",
+      "helpLabel": "Cómo recorrerlo",
+      "localLabel": "Espacio local",
+      "helpTitle": "",
+      "helpBody": "Abre un bloque para explorar sus apartados. El índice mantiene visible la estructura mientras presentas los contenidos.\n\n- ← →: avanzar entre apartados.\n- Esc: cerrar paneles o volver al atlas.\n- F: entrar o salir de pantalla completa.\n\nEn **Editar contenido** puedes modificar los textos de la página, añadir apartados e incorporar imágenes. El asistente requiere Ollama activo en tu ordenador.",
+      "styles": {
+        "title": "font-size: 48px; line-height: 1.05; letter-spacing: -0.8px",
+        "lead": "font-size: 14px; line-height: 1.5; color: #70746f; letter-spacing: 0px; max-width: 100%",
+        "body": "font-size: 17px; line-height: 1.65; max-width: 960px",
+        "blockTitle": "font-size: 26px; line-height: 1.1; letter-spacing: -0.5px",
+        "labels": "font-size: 8px; letter-spacing: 1.5px; font-weight: 500",
+        "navigation": "font-size: 12px; line-height: 1.4",
+        "footer": "font-size: 10px"
+      },
+      "galleryLabel": ""
+    }
+  ],
+  "styles": {
+    "title": "font-size: 68px",
+    "lead": "font-size: 32px; max-width: 1000px",
+    "body": "font-size: 24px; max-width: 1100px; line-height: 1.7",
+    "blockTitle": "font-size: 44px",
+    "navigation": "font-size: 14px; line-height: 1.4"
+  }
+}

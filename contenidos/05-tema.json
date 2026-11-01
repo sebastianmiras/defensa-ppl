@@ -1,0 +1,417 @@
+{
+  "id": "tema",
+  "title": "Tema 4 · Álbum ilustrado, alfabetización visual y multimodalidad",
+  "description": "Una muestra del programa puesta en acción.",
+  "subtitle": "Conceptos, obras y propuestas de intervención.",
+  "number": "V",
+  "color": "#8b7182",
+  "revision": 40,
+  "sections": [
+    {
+      "id": "entrada",
+      "title": "Álbum ilustrado, alfabetización visual y multimodalidad",
+      "lead": "Educación literaria y formación inicial del profesorado de Educación Infantil",
+      "body": "**ASIGNATURA 17104 · TEMA 4**\n\nLeer las imágenes, interpretar sus relaciones y fundamentar la mediación.\n\nEl tema aborda el álbum ilustrado como objeto narrativo, las herramientas de alfabetización visual y la construcción multimodal del significado.",
+      "image": "",
+      "caption": "",
+      "badge": "1 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "encaje-curricular",
+      "title": "El Tema 4 en la secuencia de la asignatura",
+      "lead": "El tema actualiza contenidos presentes en la asignatura y ofrece un marco integrado para su estudio",
+      "body": "**Conocimientos previos**\n\nEducación literaria · Competencia literaria · Intertexto lector · Mediación · Selección de lecturas.\n\n**TEMA 4**\n\nÁlbum ilustrado, alfabetización visual y multimodalidad: relaciones entre palabra, imagen, secuencia y materialidad.\n\n**Continuidad curricular**\n\nEducación lingüística y competencia comunicativa.\n\nEl temario actual ya contempla el álbum, las relaciones texto-imagen, los modelos icónicos y la metaficción. La propuesta los reorganiza mediante los conceptos de alfabetización visual y multimodalidad.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "objetivos-resultados",
+      "title": "Qué debe aprender el futuro docente",
+      "lead": "Objetivos y resultados de aprendizaje del Tema 4",
+      "body": "| Dimensión | Aprendizaje esperado |\n| Reconocimiento | Caracterizar el álbum y sus componentes |\n| Análisis | Interpretar relaciones texto-imagen y recursos visuales |\n| Interpretación | Reconstruir secuencias y formular inferencias |\n| Valoración | Seleccionar y justificar obras para Educación Infantil |\n| Producción | Elaborar y fundamentar narrativas multimodales |\n| Reflexión crítica | Contrastar los usos de recursos digitales e IA |\n\nObjetivos específicos de la asignatura: **OE4, OE7 y OE8**. Competencias especialmente vinculadas: **CG9, CE7 y CE14**.\n\nEl programa desarrolla siete resultados de aprendizaje específicos, RA4.1 a RA4.7, sintetizados en estas seis dimensiones.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "concepto-album",
+      "title": "El álbum ilustrado como objeto narrativo",
+      "lead": "El significado surge de la interdependencia de sus componentes",
+      "body": "| Componente | Función |\n| Texto | Información verbal y voz narrativa |\n| Imagen | Representación y construcción visual |\n| Secuencia | Progresión, elipsis y paso de página |\n| Materialidad | Formato, cubiertas, guardas y soporte |\n\nReferencias: Bader (1976), Durán (2007), Zaparaín y González (2010), Colomer et al. (2018).",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "componentes-album",
+      "title": "Texto, imagen, secuencia y materialidad",
+      "lead": "Cuatro preguntas para analizar el libro-álbum",
+      "body": "| Componente | Pregunta de análisis |\n| Texto | ¿Qué aporta la palabra a la narración? |\n| Imagen | ¿Qué se representa y cómo se representa? |\n| Secuencia | ¿Cómo se organiza la progresión narrativa? |\n| Materialidad | ¿Cómo interviene el objeto-libro en el sentido? |\n\n**Obras de referencia**\n\n- *Dos tortugas y un sombrero*: información verbal y visual.\n- *La ola*: secuencia.\n- *El cartero simpático*: materialidad.\n\nLos componentes no actúan de manera aislada, sino conjuntamente.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "relaciones-texto-imagen",
+      "title": "Tres relaciones fundamentales entre palabra e imagen",
+      "lead": "Las relaciones pueden variar a lo largo de una misma obra",
+      "body": "| Relación | Funcionamiento | Actividad del lector |\n| Redundancia | Coincidencia sustancial de información | Reconocer correspondencias |\n| Complementariedad | Información distribuida entre los modos | Integrar aportaciones |\n| Contrapunto o disyunción | Divergencia o tensión entre modos | Revisar e interpretar |\n\nReferencia: Nikolajeva y Scott (2001), según la síntesis operativa utilizada en el programa.\n\n**Pregunta de análisis:** ¿Qué sabe el lector que no expresa el texto verbal?",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "lectura",
+      "title": "Dos tortugas y un sombrero, de Jon Klassen",
+      "lead": "La información narrativa se distribuye entre palabra e imagen",
+      "body": "- Lo que expresan los personajes.\n- Lo que muestran las ilustraciones.\n- Lo que puede inferir el lector.\n\n**¿Cómo cambia la interpretación cuando consideramos simultáneamente ambos modos?**\n\nEl análisis de un indicio visual concreto permite pasar de la clasificación teórica a la lectura efectiva de la obra y reconocer la diferencia entre información verbal y visual.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "alfabetizacion-visual",
+      "title": "Por qué es necesaria una alfabetización visual",
+      "lead": "La familiaridad con las imágenes no garantiza su lectura crítica",
+      "body": "**De la percepción intuitiva a la interpretación fundamentada**\n\n| Proceso | Actuación |\n| Observación inicial | Identificar personajes, acciones y elementos representados |\n| Lectura fundamentada | Describir recursos visuales, reconocer convenciones y justificar inferencias |\n\nReferencias: Gomes-Franco-e-Silva (2019) y Martínez-Carratalá et al. (2025).\n\nEl alumnado universitario necesita aprender a hablar con precisión sobre lo que ve y sobre cómo las imágenes construyen significados.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "lenguaje-visual",
+      "title": "Elementos para analizar una narración visual",
+      "lead": "Un vocabulario operativo para describir cómo se construye la imagen",
+      "body": "| Recurso | Aspecto que permite observar |\n| Composición | Distribución y jerarquía de elementos |\n| Perspectiva | Punto de vista desde el que se representa |\n| Distancia | Proximidad o alejamiento respecto a los personajes |\n| Posición y actitud | Relación entre las figuras y el lector |\n| Color, línea y contraste | Caracterización, atmósfera y organización visual |\n\nReferencia: Painter, Martin y Unsworth (2014).\n\nEl propósito es introducir un vocabulario operativo, no desarrollar toda la gramática visual.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "zoom",
+      "title": "Zoom, de Istvan Banyai",
+      "lead": "Perspectiva y revisión de hipótesis",
+      "body": "**Conceptos que permite trabajar**\n\n- Perspectiva y punto de vista.\n- Secuencialidad.\n- Reinterpretación de la información visual.\n- Formulación y revisión de hipótesis.\n\n**¿Qué ocurre con nuestra primera interpretación cuando cambia el encuadre?**\n\nLa secuencia obliga a revisar interpretaciones anteriores y convierte el cambio de punto de vista en el núcleo de la lectura.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "secuencialidad",
+      "title": "Secuencialidad y álbumes sin palabras",
+      "lead": "La construcción inferencial del relato",
+      "body": "Leer una secuencia visual exige reconstruir relaciones temporales y causales.\n\n**Operaciones del lector**\n\n- Identificar continuidades y transformaciones.\n- Reconocer elipsis y anticipaciones.\n- Establecer relaciones entre escenas.\n- Formular y contrastar hipótesis.\n- Verbalizar la interpretación.\n\nÁlbumes de referencia: *La ola* y *Un camino de flores*.\n\nLa ausencia de palabras no simplifica necesariamente la lectura: desplaza al lector una parte importante del trabajo de reconstrucción narrativa.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "multimodalidad",
+      "title": "La construcción multimodal del significado",
+      "lead": "La lectura como integración de modos semióticos",
+      "body": "| Modo | Aportación |\n| Palabra | Información verbal |\n| Imagen | Representación visual |\n| Espacio y secuencia | Organización del discurso |\n| Materialidad | Experiencia física de lectura |\n\n**Importa cómo interactúan los recursos para producir significado.**\n\nReferencias: New London Group (1996) y Kress y van Leeuwen (2001).\n\nLa multimodalidad no aparece exclusivamente con las tecnologías digitales. El libro impreso, y especialmente el álbum ilustrado, ofrece un espacio productivo para analizarla.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "interaccion-modos",
+      "title": "La interpretación del álbum como totalidad",
+      "lead": "El significado depende de cada modo y de las relaciones que se establecen entre ellos",
+      "body": "**Tres preguntas de análisis**\n\n1. ¿Qué información aporta cada modo?\n2. ¿Qué significados surgen de su interacción?\n3. ¿Cómo participa el lector en su reconstrucción?\n\nEjemplo: *El libro negro de los colores*, de Menena Cottin.\n\nLa obra permite abordar la materialidad, la representación sensorial y las posibilidades de lectura que exceden la percepción exclusivamente visual.\n\nReferencia: Pacheco-Costa y Guzmán-Simón (2020).",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "transduccion",
+      "title": "Transducción: de lo visual a lo verbal",
+      "lead": "Transformar una narración visual en discurso verbal",
+      "body": "**Interpretación visual**\n\nReconocer indicios, secuencias y relaciones entre signos.\n\n**Reconstrucción narrativa**\n\nEstablecer relaciones temporales y causales.\n\n**Verbalización**\n\nExplicar lo interpretado y justificar las decisiones.\n\nEl concepto se aplica en el programa a la lectura de álbumes sin palabras y codificados, especialmente a la experiencia con *Cendrillon*.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "metaficcion",
+      "title": "Metaficción y experimentación narrativa",
+      "lead": "Cuando el álbum hace visibles sus propias convenciones",
+      "body": "| Procedimiento | Qué puede exigir al lector |\n| Ruptura de fronteras narrativas | Reconocer los límites entre ficción y lector |\n| Libro dentro del libro | Interpretar la autorreferencia |\n| Materialidad narrativa | Incorporar el objeto-libro al relato |\n| Tensión texto-imagen | Revisar la interpretación |\n| Intertextualidad y parodia | Activar conocimientos culturales previos |\n\nReferencia: Amo Sánchez-Fortún (2010).\n\nObras de referencia: *El cartero simpático*, por sus documentos insertos, materialidad e intertextualidad; y *¡OH!*, de Josse Goffin, por la transformación visual, el paso de página y las expectativas del lector.\n\n**La experimentación formal interesa por la actividad interpretativa que provoca.**",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "corpus-nuclear",
+      "title": "Corpus nuclear del Tema 4",
+      "lead": "Un corpus diverso para el análisis y la mediación",
+      "body": "| Obra | Posibilidad de análisis |\n| *El cartero simpático* | Materialidad e intertextualidad |\n| *Zoom* | Perspectiva y secuencia |\n| *El libro de los cerdos* | Relaciones texto-imagen |\n| *El libro negro de los colores* | Materialidad y percepción |\n| *¡OH!* | Paso de página |\n| *Dos tortugas y un sombrero* | Información verbal y visual |\n| *Un camino de flores* | Narración sin palabras |\n| *La ola* | Secuencialidad y espacio |\n| *Pequeño azul, pequeño amarillo* | Abstracción y color |\n| *Bárbaro* | Inferencia retrospectiva |\n| *Madlenka* | Organización espacial |\n| *Cendrillon* | Narración visual codificada |\n\n**Criterios de selección**\n\n- Calidad literaria, visual y editorial.\n- Diversidad estética y formal.\n- Capacidad para ejemplificar y problematizar contenidos.\n- Potencial para la mediación en Educación Infantil.",
+      "image": "",
+      "caption": "",
+      "badge": "3 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "lecturas-academicas",
+      "title": "Fundamentación académica de los contenidos",
+      "lead": "Lecturas académicas y actualización del corpus",
+      "body": "| Lectura | Función dentro del tema |\n| Gomes-Franco-e-Silva (2019) | Introducción a la alfabetización visual |\n| Miras (2020) | Lectura multimodal y competencia literaria |\n| Martínez-Carratalá, Miras y Rovira-Collado (2024) | Álbumes sin palabras y formación docente |\n\n- Una lectura académica obligatoria y dos recomendadas.\n- Corpus complementario para comparación y trabajo autónomo.\n- Actualización a partir de investigación, producción editorial y proyectos de innovación.\n\nEstas lecturas académicas específicas del Tema 4 se distinguen de las lecturas obligatorias generales de la asignatura. Las redes de innovación y el proyecto LUMINARIA contribuyen a actualizar el corpus.",
+      "image": "",
+      "caption": "",
+      "badge": "3 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "elaboracion-album",
+      "title": "Elaboración de un álbum ilustrado",
+      "lead": "Crear para comprender los recursos del álbum",
+      "body": "| Opción | Propuesta |\n| A | Narrativa original ilustrada |\n| B | Álbum-poema a partir de una composición infantil de autoría reconocida |\n\n**Condiciones y productos**\n\n- Lectores destinatarios de 3 a 6 años.\n- Ejemplar físico y versión digital.\n- Memoria de justificación de las decisiones literarias, visuales y materiales.\n- Autoevaluación del proceso creativo.\n\nUna [galería de entregas del curso 2025–2026](media:galeria-albumes-2025-26) permite observar la diversidad de técnicas, formatos y soluciones narrativas desarrolladas por el alumnado.\n\n**No se utilizará IA generativa para producir las ilustraciones**, porque la experimentación directa con los recursos visuales es un objetivo de aprendizaje.\n\nLa práctica de creación funciona como instrumento de reflexión disciplinar.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      },
+      "media": [
+        {
+          "id": "galeria-albumes-2025-26",
+          "type": "gallery",
+          "label": "GALERÍA · CURSO 2025–2026",
+          "title": "Entregas de la práctica de elaboración de un álbum ilustrado",
+          "images": [
+            {
+              "src": "assets/album_1.png",
+              "alt": "Entrega 1: doble página ilustrada con personajes y diálogo"
+            },
+            {
+              "src": "assets/album_2.png",
+              "alt": "Entrega 2: secuencia narrativa elaborada con dibujo y figuras móviles"
+            },
+            {
+              "src": "assets/album_3.png",
+              "alt": "Entrega 3: doble página de Caperucita realizada con acuarela"
+            },
+            {
+              "src": "assets/album_4.png",
+              "alt": "Entrega 4: doble página ilustrada con una escena submarina"
+            },
+            {
+              "src": "assets/album_5.png",
+              "alt": "Entrega 5: doble página sobre una protagonista que llega al espacio"
+            },
+            {
+              "src": "assets/album_6.png",
+              "alt": "Entrega 6: escena de un niño junto a una gran figura imaginaria"
+            },
+            {
+              "src": "assets/album_7.png",
+              "alt": "Entrega 7: doble página inspirada en Hansel y Gretel"
+            },
+            {
+              "src": "assets/album_8.png",
+              "alt": "Entrega 8: doble página protagonizada por una vaca lectora"
+            }
+          ],
+          "caption": "Selección de ocho entregas que ejemplifican diferentes decisiones literarias, visuales y materiales.",
+          "source": "Trabajos del alumnado de la asignatura 17104 · Curso 2025–2026."
+        }
+      ]
+    },
+    {
+      "id": "cendrillon-reconstruccion",
+      "title": "Cendrillon (1976), de Warja Lavater",
+      "lead": "Veinte secuencias visuales para reconstruir un relato",
+      "body": "1. Recibir las veinte tarjetas desordenadas, sin la leyenda de códigos.\n2. Identificar recurrencias, posiciones, tamaños y colores.\n3. Proponer y justificar una ordenación narrativa.\n4. Distribuir las escenas en cinco fases narrativas.\n5. Elaborar descripciones verbales de las escenas.\n\n**Fases:** situación inicial, conflicto, desarrollo, resolución y situación final.\n\nLa fotografía de la práctica incluida en el programa, *aula-lavater.jpg*, constituye la evidencia visual preferente para esta página.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      }
+    },
+    {
+      "id": "cendrillon-ia",
+      "title": "Cendrillon: IA generativa y contraste crítico",
+      "lead": "De la reconstrucción visual a la narración generada",
+      "body": "**1 · Interpretación del alumnado**\n\nLa [práctica desarrollada en el aula](media:cendrillon-aula) comienza con la ordenación colaborativa de las veinte tarjetas, la identificación de fases narrativas y la elaboración de descripciones por parte de los grupos.\n\n**2 · Aplicación web**\n\nLa [interfaz creada para registrar la reconstrucción](media:cendrillon-web) permite ordenar las secuencias, asignar a cada una una fase narrativa y redactar su descripción antes de generar el relato.\n\n**3 · Contraste crítico**\n\nIdentificación de información conservada, reformulada o introducida por la IA.\n\n**La interpretación del alumnado precede a la intervención tecnológica.**\n\nLa herramienta genera una narración únicamente después de que el alumnado haya observado, reconstruido y verbalizado la secuencia. La cuestión pedagógica es qué ocurre cuando sus decisiones interpretativas se transforman en un nuevo relato verbal y se someten a contraste.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      },
+      "media": [
+        {
+          "id": "cendrillon-aula",
+          "type": "image",
+          "label": "PRÁCTICA · INTERPRETACIÓN HUMANA",
+          "title": "Reconstrucción colaborativa de la secuencia en el aula",
+          "image": "assets/lavater-aula.jpg",
+          "alt": "Mesa de trabajo con las veinte tarjetas de Cendrillon mientras el alumnado reconstruye la secuencia",
+          "caption": "Los grupos observan las recurrencias visuales, proponen una ordenación y distribuyen las escenas entre las cinco fases narrativas.",
+          "source": "Práctica de aula con Cendrillon (1976), de Warja Lavater."
+        },
+        {
+          "id": "cendrillon-web",
+          "type": "image",
+          "label": "PRÁCTICA · APLICACIÓN WEB",
+          "title": "Registro de la ordenación, las fases y las descripciones",
+          "image": "assets/lavater-web.png",
+          "alt": "Aplicación web con las tarjetas de Cendrillon, selectores de fase narrativa y campos de descripción",
+          "caption": "La aplicación recoge la secuencia propuesta por cada grupo y sus decisiones interpretativas antes de generar el nuevo relato verbal.",
+          "source": "Aplicación web creada para la experiencia Narrativa visual y herramientas IA."
+        }
+      ]
+    },
+    {
+      "id": "luminaria-jornadas",
+      "title": "Investigación, actualización y mediación literaria",
+      "lead": "LUMINARIA y IV Jornadas Narrativas Gráficas para la Infancia",
+      "body": "**LUMINARIA · Proyecto GRE24-07A**\n\nLUMINARIA articula investigación, transferencia y mediación literaria en torno a un [corpus de álbumes ilustrados](media:luminaria-corpus). La selección reúne narrativas gráficas infantiles, que se analizan de acuerdo a unas categorías de análisis multimodal definidas por el equipo de investigación.\n\nLa [web institucional de LUMINARIA](media:luminaria-web), alojada en la Universidad de Alicante, reúne la presentación del proyecto, el equipo, el corpus y sus recursos de análisis.\n\nUn [vídeo explicativo](media:luminaria-video) presenta estas categorías y permite comprender cómo se describen de manera sistemática los recursos visuales, narrativos y materiales de las obras. A partir del análisis desarrollado por el equipo de investigación, se ha desarrollado un [chatbot especializado](media:luminaria-chat), con el que explorar los álbumes del corpus y contrastar sus respuestas con criterios disciplinares.\n\n**IV Jornadas Narrativas Gráficas para la Infancia · 22 de abril de 2027**\n\nLa cuarta edición da continuidad a una trayectoria que puede recorrerse a través de los [carteles de las tres primeras Jornadas](media:galeria-jornadas-narrativas).\n\n- Contacto con especialistas y creadores.\n- Actualización de conocimientos.\n- Reflexión individual vinculada a la asignatura.\n- Continuidad de las ediciones celebradas desde 2024.\n\nLUMINARIA permite explorar críticamente recursos especializados, mientras que las Jornadas amplían el espacio formativo mediante el contacto con investigaciones, obras y experiencias de creación y mediación.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px"
+      },
+      "media": [
+        {
+          "id": "luminaria-corpus",
+          "type": "image",
+          "label": "LUMINARIA · CORPUS",
+          "title": "Corpus de álbumes ilustrados",
+          "image": "assets/luminaria-corpus.png",
+          "alt": "Mosaico de cubiertas de los álbumes ilustrados incluidos en el corpus de LUMINARIA",
+          "caption": "Una muestra del corpus de narrativas gráficas infantiles reunido para el análisis del proyecto.",
+          "source": "Proyecto LUMINARIA · Universidad de Alicante."
+        },
+        {
+          "id": "luminaria-video",
+          "type": "image",
+          "label": "LUMINARIA · VÍDEO",
+          "title": "Categorías de análisis del proyecto",
+          "image": "assets/luminaria-video.png",
+          "alt": "Captura del vídeo de LUMINARIA sobre las categorías de análisis aplicadas al álbum Donde viven los monstruos",
+          "caption": "El vídeo explica las categorías utilizadas para describir y analizar los álbumes del corpus.",
+          "source": "Recurso audiovisual del proyecto LUMINARIA alojado en YouTube."
+        },
+        {
+          "id": "luminaria-chat",
+          "type": "image",
+          "label": "LUMINARIA · CHATBOT",
+          "title": "Chatbot especializado de LUMINARIA",
+          "image": "assets/luminaria-chat.png",
+          "alt": "Interfaz actual del chatbot de LUMINARIA con el archivo de álbumes a la izquierda y el espacio de conversación a la derecha",
+          "caption": "Estado actual del chatbot construido a partir del análisis desarrollado por el equipo de investigación.",
+          "source": "Prototipo del proyecto LUMINARIA."
+        },
+        {
+          "id": "luminaria-web",
+          "type": "image",
+          "label": "LUMINARIA · WEB",
+          "title": "Web institucional de LUMINARIA",
+          "image": "assets/luminaria-web.png",
+          "alt": "Captura de la página del proyecto LUMINARIA alojada en el sitio web de la Universidad de Alicante",
+          "caption": "La web institucional presenta el proyecto, el equipo de investigación, el corpus y sus recursos de análisis.",
+          "source": "Universidad de Alicante."
+        },
+        {
+          "id": "galeria-jornadas-narrativas",
+          "type": "gallery",
+          "presentation": "posters",
+          "label": "JORNADAS · EDICIONES I–III",
+          "title": "Jornadas Narrativas Gráficas para la Infancia",
+          "images": [
+            {
+              "src": "assets/I-jornadas.jpg",
+              "alt": "Cartel de las I Jornadas Narrativas Gráficas para la Infancia"
+            },
+            {
+              "src": "assets/II-jornadas.jpg",
+              "alt": "Cartel de las II Jornadas Narrativas Gráficas para la Infancia"
+            },
+            {
+              "src": "assets/III-jornadas.jpg",
+              "alt": "Cartel de las III Jornadas Narrativas Gráficas para la Infancia"
+            }
+          ],
+          "caption": "Carteles de las tres primeras ediciones, celebradas como antecedente de las IV Jornadas de 2027.",
+          "source": "Jornadas Narrativas Gráficas para la Infancia · Universidad de Alicante."
+        }
+      ]
+    },
+    {
+      "id": "cierre",
+      "title": "Correspondencia entre aprendizajes y evaluación",
+      "lead": "Evaluar el análisis, la interpretación y la reflexión profesional",
+      "body": "| Evidencia | Aprendizajes que permite valorar |\n| Prueba teórica | Conceptos del álbum, alfabetización visual y multimodalidad |\n| Elaboración del álbum | Aplicación de recursos literarios, visuales y materiales |\n| *Cendrillon* | Interpretación secuencial, inferencia y verbalización |\n| LUMINARIA | Contraste crítico de recursos tecnológicos |\n| Reflexión sobre las Jornadas | Relación entre conocimientos académicos y experiencias profesionales |\n\n**El futuro maestro debe ser capaz de analizar y seleccionar obras, acompañar su lectura y justificar las decisiones de mediación.**\n\n*Cendrillon* y LUMINARIA tienen fundamentalmente una función formativa. Los instrumentos calificables se integran en el sistema general de evaluación de la 17104, sin establecer porcentajes específicos nuevos para este tema.\n\nLa evaluación no se reduce a identificar conceptos: incluye su aplicación y la capacidad de argumentar decisiones profesionales.",
+      "image": "",
+      "caption": "",
+      "badge": "2 MIN",
+      "styles": {
+        "blockTitle": "font-size: 29px",
+        "title": "font-size: 58px"
+      }
+    }
+  ],
+  "illustrations": [
+    {
+      "image": "assets/pedro-rana-salto-v1.png",
+      "caption": ""
+    },
+    {
+      "image": "assets/pedro-ave-v1.png",
+      "caption": ""
+    }
+  ]
+}

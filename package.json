@@ -1,0 +1,1 @@
+{"name":"atlas-docente-final","private":true,"version":"1.0.0","scripts":{"dev":"HOST=0.0.0.0 python3 server.py"}}

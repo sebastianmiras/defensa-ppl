@@ -1,0 +1,91 @@
+{
+  "id": "fundamentacion",
+  "title": "Fundamentación epistemológica de la DLL en EI",
+  "description": "Una mirada al área y a sus formas de construir conocimiento.",
+  "subtitle": "",
+  "number": "II",
+  "color": "#737d64",
+  "revision": 19,
+  "sections": [
+    {
+      "id": "area",
+      "title": "La DLL como campo científico específico",
+      "lead": "Didáctica de la Lengua y la Literatura: identidad y autonomía disciplinar",
+      "body": "**Campo científico específico e interdisciplinar**\n\nLingüística · Estudios literarios · Psicología · Sociología · Ciencias de la Educación.\n\n**Objeto de estudio propio**\n\nProcesos de enseñanza y aprendizaje de las prácticas lingüísticas, comunicativas, lectoras y literarias.\n\n- Autonomía disciplinar.\n- Investigación educativa.\n- Relación entre teoría y práctica.\n\n**Fundamentación académica**\n\n- Milian y Camps (1990): sitúan la DLL en la intersección de diferentes campos de conocimiento, sin reducirla a una yuxtaposición de aportaciones.\n- Camps (1993): fundamenta su consideración como campo científico emergente, con un objeto relacionado con los procesos de enseñanza y aprendizaje.\n- Mendoza et al. (1996): sistematizan las funciones y los ámbitos de actuación de la disciplina.\n- Ballester-Roca e Ibarra-Rius (2020): revisan su evolución y la necesidad de actualizar sus conceptos.\n\nLa DLL no es una aplicación simplificada de la lingüística o de los estudios literarios, sino una disciplina que transforma esos conocimientos para investigar problemas educativos específicos.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "visual",
+      "title": "La DLL y la formación inicial del profesorado",
+      "lead": "La construcción del conocimiento profesional docente",
+      "body": "**Conocimiento disciplinar**\nLengua, comunicación, literatura y cultura.\n\n**Conocimiento didáctico**\nSelección, organización y transformación del conocimiento.\n\n**Conocimiento práctico y situado**\nObservación, experiencia y reflexión.\n\n**El maestro o la maestra como mediador lingüístico y literario**\n\nFormación de la identidad profesional y capacidad para tomar decisiones didácticas fundamentadas.\n\n**Fundamentación académica**\n\n- Aguilar Ródenas (2020): relaciona la identidad lectora del futuro profesorado con su identidad profesional.\n- Neira-Piñeiro y Martín-Macho Harrison (2020): identifican, en un estudio con 145 estudiantes de Magisterio de Educación Infantil, carencias en las herramientas de valoración literaria y una tendencia a privilegiar las funciones educativas o morales de las obras.\n- Gómez Rubio (2021): estudia 256 autobiografías lectoras y muestra la relevancia de las experiencias previas del alumnado.\n- Camps (1999): sitúa al profesorado como agente de investigación sobre la enseñanza.\n\nFormar a futuros docentes implica proporcionar conocimientos, revisar sus experiencias y creencias lectoras y desarrollar una capacidad profesional reflexiva.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "diagramLabel0": "DISCIPLINAR",
+      "diagramText0": "Lengua, literatura\ny cultura",
+      "diagramLabel1": "DIDÁCTICO",
+      "diagramText1": "Selección y\ntransformación",
+      "diagramLabel2": "PRÁCTICO",
+      "diagramText2": "Experiencia y\nreflexión",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "educacion-linguistica",
+      "title": "Educación lingüística en Educación Infantil",
+      "lead": "De la competencia lingüística a la competencia comunicativa",
+      "body": "**Competencia lingüística**\nConocimiento del sistema.\n\n**Competencia comunicativa**\nUso significativo y contextualizado.\n\n**Oralidad e interacción**\nHablar, escuchar y conversar.\n\n**Construcción compartida**\nJuego, rutinas y narración.\n\n**Plurilingüismo**\nDiversidad de repertorios lingüísticos.\n\nHymes (1972) · Canale y Swain (1980) · López-Valero y Encabo (2020) · Cenoz (2020).\n\n| Referencia | Aportación |\n| Hymes (1972) | Formulación inicial del concepto de competencia comunicativa |\n| Canale y Swain (1980) | Desarrollo de sus componentes |\n| López-Valero y Encabo (2020) | Relación entre competencia comunicativa e identidad de la DLL |\n| Cenoz (2020) | Perspectiva integrada de los repertorios plurilingües |\n\nEl aprendizaje lingüístico en Infantil se desarrolla mediante situaciones significativas de comunicación, interacción y construcción compartida de conocimiento. La formación docente debe reconocer los distintos recursos lingüísticos que el alumnado aporta a las situaciones de aprendizaje.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "mediacion",
+      "title": "Educación literaria y formación del lector",
+      "lead": "De la enseñanza de la literatura a la formación del lector",
+      "body": "**Educación literaria**\nExperiencia de lectura · Interpretación · Competencia literaria · Disfrute estético.\n\n**Competencia literaria**\nConocimientos, capacidades y actitudes.\n\n**Intertexto lector**\nRelaciones entre experiencias y referentes culturales.\n\n**Literatura infantil y juvenil y tradición oral**\nNarrativa, poesía y primeras experiencias literarias.\n\n**Mediación lectora**\nSelección de obras y lectura compartida.\n\n**Fundamentación académica**\n\n- Colomer (1995): desplazamiento hacia la formación del lector y la educación literaria.\n- Mendoza (2001, 2004): intertexto lector y construcción de la competencia literaria.\n- Cerrillo (2007): fundamentos de la educación literaria y reconocimiento de la literatura infantil.\n- Mínguez-López (2023): competencia literaria entendida mediante conocimientos, capacidades y actitudes.\n- Munita (2024): mediación como creación de condiciones favorables para el encuentro entre lectores y obras.\n\nLa educación literaria comienza antes de la lectura autónoma. En Educación Infantil, la escucha de relatos, las canciones, la tradición oral, la exploración de libros y la lectura de imágenes participan en la formación del lector.\n\nLa selección de obras debe atender a la calidad literaria y artística y a sus posibilidades de interpretación y disfrute estético, no exclusivamente a su adecuación temática o utilidad educativa.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "multiliteracidades",
+      "title": "Multiliteracidades y nuevas formas de lectura",
+      "lead": "Ampliación de las prácticas de lectura y construcción del significado",
+      "body": "**De la alfabetización verbal a las multiliteracidades**\n\nPalabra · Imagen · Sonido · Espacio · Materialidad.\n\n**Alfabetización visual**\nInterpretación crítica de los códigos visuales.\n\n**Narrativas gráficas**\nInteracción entre texto, imagen, secuencia y materialidad.\n\n**Tecnología e inteligencia artificial**\nNuevas posibilidades de producción y mediación.\n\n**1 · Multiliteracidades y multimodalidad**\n\nEl New London Group (1996) proporciona el marco de las multiliteracidades, mientras que Kress (2005) fundamenta la reconsideración de la noción de texto y la participación de diferentes modos semióticos.\n\n**2 · Álbum ilustrado y alfabetización visual**\n\nPantaleo (2020), Arizpe (2021) y Serafini y Reid (2024) permiten comprender la construcción multimodal del significado y las particularidades interpretativas del álbum.\n\n**3 · Tecnología educativa e inteligencia artificial**\n\nFrancos Maldonado (2022) permite relacionar la alfabetización tecnológica con las alfabetizaciones múltiples. La tecnología no constituye por sí misma una metodología ni garantiza una mejora pedagógica: su incorporación requiere objetivos explícitos, conocimientos previos, reflexión crítica y mediación del profesorado.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    }
+  ],
+  "illustrations": [
+    {
+      "image": "assets/pedro-flor-v1.png",
+      "caption": ""
+    },
+    {
+      "image": "assets/pedro-botanica-v1.png",
+      "caption": ""
+    },
+    {
+      "image": "assets/pedro-mano-v1.png",
+      "caption": ""
+    }
+  ]
+}

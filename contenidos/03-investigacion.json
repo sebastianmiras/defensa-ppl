@@ -1,0 +1,279 @@
+{
+  "id": "investigacion",
+  "title": "Investigación e innovación en DLL",
+  "description": "Las evidencias como punto de partida para decidir.",
+  "subtitle": "Preguntas, métodos y transferencia a la docencia.",
+  "number": "III",
+  "color": "#6c7f8f",
+  "revision": 23,
+  "sections": [
+    {
+      "id": "preguntas",
+      "title": "Investigación y diagnóstico como fundamento de la propuesta",
+      "lead": "Investigación en DLL: diagnóstico y transferencia a la formación docente",
+      "body": "**01 · Formación universitaria**\n\nAnálisis comparado de asignaturas de literatura infantil y juvenil en los grados de Educación Infantil.\n\n**02 · Investigación especializada**\n\nCartografía temática de la Didáctica de la Lengua y la Literatura durante 2016–2026.\n\n**03 · Investigación e innovación propias**\n\nTransferencia a la formación inicial del profesorado.\n\n**Del conocimiento de la situación de la DLL a la fundamentación de decisiones docentes.**\n\n**Fundamentación académica**\n\nPara el análisis universitario, se consideran los trabajos de Aguilar Ródenas sobre la organización académica de la DLL, el estudio de Soto-Vázquez et al. (2022) sobre la formación en literatura infantil y juvenil en Educación Primaria y el de Escalante Varona et al. (2025) sobre didáctica de la lengua castellana.\n\nLa cartografía investigadora se relaciona con las panorámicas de Neira-Piñeiro y Fernández Costales (2023) y el análisis de la revista *Tejuelo* realizado por De la Montaña Rojo (2022).\n\nLos estudios propios prolongan estas líneas mediante una aproximación específica a la formación literaria en Infantil y al panorama reciente de la investigación en DLL.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "formacion-lij-metodologia",
+      "title": "Formación en LIJ: corpus y metodología",
+      "lead": "Estudio comparado de la formación literaria en Educación Infantil",
+      "body": "| Corpus | Magnitud |\n| Universidades revisadas | 40 |\n| Universidades representadas | 37 |\n| Asignaturas analizadas | 75 |\n\n**Dimensiones de análisis**\n\n- Características curriculares.\n- Competencias y resultados.\n- Contenidos y metodología.\n- Bibliografía.\n\n**Codificación**\n\n17 dimensiones y tres niveles de presencia: **ausente · secundaria · estructural**.\n\nAnálisis semántico complementario mediante un modelo lingüístico local.\n\nFuente: investigación propia a partir de planes de estudio y guías docentes oficiales.\n\n**Precisión metodológica**\n\nEl estudio es descriptivo y comparativo y analiza la formación literaria explícitamente declarada en las guías docentes. Estas permiten estudiar el currículo formal, pero no constituyen una observación directa de todas las prácticas que se desarrollan en las aulas.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "resultados",
+      "title": "Organización curricular y orientaciones formativas",
+      "lead": "Regularidades y diferencias en la formación universitaria en literatura infantil y juvenil",
+      "body": "**Ubicación por curso**\n\n71 materias adscritas a un curso específico.\n\n| Resultado | Valor |\n| Asignaturas de 6 ECTS | 81,3 % |\n| Ubicadas en 3.º y 4.º curso | 77,3 % |\n| Orientadas hacia la mediación y promoción lectora | 86,7 % |\n\nLa organización del corpus puede observarse en la [distribución por carga ECTS](media:guias-ects) y en la [ubicación por curso y carácter](media:guias-curso-caracter).\n\nLas guías muestran también una clara orientación hacia la mediación y promoción lectora. Esta tendencia se precisa en la [síntesis de orientaciones formativas](media:guias-orientaciones) y en las [principales formas de mediación](media:guias-mediacion).\n\n**Interpretación**\n\nLa asignatura 17104 ocupa una posición particular porque incorpora una formación literaria sustancial desde el primer curso, mientras que el estudio muestra una concentración general de estas materias en tercero y cuarto. El resultado señala diferentes configuraciones curriculares, no una organización mejor o peor.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      },
+      "media": [
+        {
+          "id": "guias-ects",
+          "type": "image",
+          "label": "FIGURA III.1 · GUÍAS DOCENTES",
+          "title": "Distribución de las asignaturas según su carga en créditos ECTS",
+          "image": "assets/media/bloque-iii/guias-ects.png",
+          "alt": "Gráfico de barras con la distribución de las 75 asignaturas por créditos ECTS",
+          "caption": "La modalidad de 6 ECTS es claramente predominante: aparece en 61 de las 75 asignaturas analizadas.",
+          "source": "Fuente: elaboración propia a partir de planes de estudio y guías docentes oficiales."
+        },
+        {
+          "id": "guias-curso-caracter",
+          "type": "image",
+          "label": "FIGURA III.2 · GUÍAS DOCENTES",
+          "title": "Distribución de las asignaturas por curso y carácter",
+          "image": "assets/media/bloque-iii/guias-curso-caracter.png",
+          "alt": "Gráfico de barras que compara asignaturas obligatorias y optativas por curso",
+          "caption": "La formación literaria se concentra principalmente en tercero y cuarto curso; el corpus mantiene un equilibrio global entre materias obligatorias y optativas.",
+          "source": "Fuente: elaboración propia. Corpus de 75 asignaturas de 37 universidades públicas españolas."
+        },
+        {
+          "id": "guias-orientaciones",
+          "type": "image",
+          "label": "FIGURA III.3 · GUÍAS DOCENTES",
+          "title": "Orientaciones formativas identificadas en las asignaturas",
+          "image": "assets/media/bloque-iii/guias-orientaciones.png",
+          "alt": "Gráfico horizontal con las principales orientaciones formativas de las asignaturas",
+          "caption": "La mediación y la promoción lectora constituyen la orientación más extendida del corpus.",
+          "source": "Fuente: elaboración propia a partir del análisis semántico de las guías docentes."
+        },
+        {
+          "id": "guias-mediacion",
+          "type": "image",
+          "label": "FIGURA III.4 · GUÍAS DOCENTES",
+          "title": "Principales formas de mediación presentes en las asignaturas",
+          "image": "assets/media/bloque-iii/guias-mediacion.png",
+          "alt": "Gráfico horizontal con las principales formas de mediación lectora",
+          "caption": "La selección de obras, la promoción de la lectura y la conversación interpretativa son las formas de mediación más frecuentes.",
+          "source": "Fuente: elaboración propia a partir del análisis semántico de las guías docentes."
+        }
+      ]
+    },
+    {
+      "id": "integracion-curricular",
+      "title": "Presencia e integración curricular de los contenidos",
+      "lead": "Contenidos consolidados y nuevas alfabetizaciones",
+      "body": "**Presencia total y estructural en las 75 asignaturas analizadas**\n\nDimensiones consideradas: educación literaria, literatura infantil y juvenil, mediación lectora, álbum ilustrado, alfabetización visual, multimodalidad, narrativas gráficas, tecnología educativa e inteligencia artificial.\n\n| Dimensión | Presencia total | Presencia estructural |\n| Multimodalidad | 85,3 % | 22,7 % |\n| Narrativas gráficas | — | 8 % |\n| Inteligencia artificial | — | 6,7 % |\n\nLa [comparación entre presencia total y presencia estructural](media:guias-presencia-estructural) permite distinguir la mera aparición de una dimensión de su integración explícita en la organización de la asignatura.\n\n**Hallazgo principal**\n\nLa presencia de prácticas visuales, multimodales y tecnológicas no siempre se traduce en contenidos estructurados de formación.\n\n**Interpretación académica**\n\nLa educación literaria y la literatura infantil y juvenil constituyen un núcleo curricular consolidado, mientras que las dimensiones visuales y multimodales presentan diferencias significativas entre su aparición en las guías y su integración explícita.\n\nEn el caso de la inteligencia artificial, una mención puede referirse a normas de autoría o integridad académica y no necesariamente a una formación específica.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      },
+      "media": [
+        {
+          "id": "guias-presencia-estructural",
+          "type": "image",
+          "label": "FIGURA III.5 · GUÍAS DOCENTES",
+          "title": "Presencia total y estructural de las dimensiones analizadas",
+          "image": "assets/media/bloque-iii/guias-presencia-estructural.png",
+          "alt": "Gráfico que compara la presencia total y estructural de diecisiete dimensiones formativas",
+          "caption": "La educación literaria y la LIJ forman un núcleo consolidado; en mediación, multimodalidad, alfabetización visual y tecnología se observan diferencias amplias entre aparición y estructuración curricular.",
+          "source": "Fuente: elaboración propia. Corpus de 75 asignaturas."
+        }
+      ]
+    },
+    {
+      "id": "bibliografia",
+      "title": "Bibliografía: continuidad y actualización",
+      "lead": "Los referentes bibliográficos de la formación universitaria en literatura infantil y juvenil",
+      "body": "| Corpus bibliográfico | Magnitud |\n| Referencias depuradas | 1.345 |\n| Asignaturas | 70 |\n| Publicaciones de 2019–2026 | 12,6 % |\n\n**Distribución temporal** · n = 1.302 referencias con año.\n\n| Periodo | Porcentaje |\n| Antes de 2000 | 22 % |\n| 2000–2009 | 40,1 % |\n| 2010–2018 | 25,3 % |\n| 2019–2026 | 12,6 % |\n\nLa bibliografía puede explorarse desde dos perspectivas complementarias: las [obras más recurrentes](media:guias-obras-recurrentes) y su [distribución temporal](media:guias-distribucion-temporal).\n\nReferentes recurrentes: Colomer, García Padrino, Duran, Rodari, Pelegrín, Cerrillo, Lluch y Mendoza, entre otros.\n\n**Interpretación**\n\nLos resultados muestran la continuidad de referentes que participaron en la consolidación de la disciplina y una incorporación proporcionalmente menor de publicaciones recientes. Esto no implica una desactualización generalizada, puesto que los trabajos clásicos mantienen su valor académico.\n\nLa consecuencia para la 17104 consiste en combinar su presencia con investigaciones contemporáneas sobre formación lectora, mediación y nuevas formas de lectura.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      },
+      "media": [
+        {
+          "id": "guias-obras-recurrentes",
+          "type": "image",
+          "label": "FIGURA III.6 · BIBLIOGRAFÍA",
+          "title": "Obras más recurrentes en la bibliografía clave del corpus",
+          "image": "assets/media/bloque-iii/guias-obras-recurrentes.png",
+          "alt": "Gráfico con las diez obras más recurrentes en las bibliografías de las asignaturas",
+          "caption": "La recurrencia de determinadas obras permite reconocer referentes compartidos en la formación universitaria en LIJ.",
+          "source": "Fuente: elaboración propia. Corpus depurado de 1.345 referencias correspondientes a 70 asignaturas."
+        },
+        {
+          "id": "guias-distribucion-temporal",
+          "type": "image",
+          "label": "FIGURA III.7 · BIBLIOGRAFÍA",
+          "title": "Distribución temporal de la bibliografía clave analizada",
+          "image": "assets/media/bloque-iii/guias-distribucion-temporal.png",
+          "alt": "Gráfico de barras con la distribución temporal de 1.302 referencias bibliográficas",
+          "caption": "El 40,1 % de las referencias con año se publicó entre 2000 y 2009; las publicaciones de 2019–2026 representan el 12,6 %.",
+          "source": "Fuente: elaboración propia. n = 1.302 referencias con año de publicación."
+        }
+      ]
+    },
+    {
+      "id": "cartografia-metodologia",
+      "title": "Cartografía de la investigación en DLL: corpus y metodología",
+      "lead": "Panorama de la investigación especializada en DLL durante 2016–2026",
+      "body": "| Corpus | Magnitud |\n| Revistas especializadas | 22 |\n| Registros iniciales | 5.663 |\n| Contribuciones analizadas | 4.303 |\n\n**Procedimiento metodológico**\n\n1. Recopilación y normalización de metadatos.\n2. Depuración documental: exclusión de 1.360 registros.\n3. Clasificación temática supervisada mediante un modelo lingüístico local.\n4. Análisis descriptivo y temporal de las categorías.\n\nRStudio + ellmer · Qwen3.8:27b · 10 categorías temáticas · 3 enfoques transversales.\n\nCorpus de 22 revistas, 2016–2026. Datos de 2026 provisionales.\n\n**Fundamentación académica y metodológica**\n\nLa investigación se relaciona con Guillén Díaz y Sanz Trigueros (2021), Neira-Piñeiro y Fernández Costales (2023) y De la Montaña Rojo (2022). La taxonomía comprende T1–T10 como categorías temáticas principales, T11 como categoría residual, E1–E3 como enfoques transversales y variables complementarias sobre géneros literarios y vinculación con Educación Infantil.\n\nLa ejecución local del modelo y la depuración contribuyen a la trazabilidad. Se trata de una cartografía descriptiva basada en una selección intencional de revistas, no de una representación exhaustiva de toda la producción científica del área.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    },
+    {
+      "id": "distribucion-tematica",
+      "title": "Distribución temática de la investigación reciente",
+      "lead": "Tres grandes ámbitos en la investigación especializada en DLL",
+      "body": "**Distribución de los 3.845 registros clasificados en T1–T10**\n\n| Ámbito | Categorías | Porcentaje |\n| Educación lingüística | T1–T5 | 51,89 % |\n| Educación literaria y estudios literarios | T6–T8 | 33,65 % |\n| Multimodalidad y tecnología | T9–T10 | 14,46 % |\n\n| Categorías destacadas | Porcentaje |\n| Plurilingüismo y lenguas adicionales · T5 | 24,32 % |\n| Educación literaria · T6 | 10,79 % |\n| LIJ y mediación lectora · T7 | 10,27 % |\n\nLa [distribución global del corpus T1–T10](media:dll-distribucion-global) permite comparar el peso de las diez categorías. Los 458 registros T11 quedan excluidos de esta distribución temática.\n\n**Interpretación**\n\nLa educación lingüística tiene un peso mayoritario; la educación literaria mantiene una presencia relevante y la multimodalidad y la tecnología forman un ámbito reconocible. Su evolución anual puede contrastarse en las líneas de [educación lingüística, T1–T5](media:dll-evolucion-t1-t5), [educación literaria y estudios literarios, T6–T8](media:dll-evolucion-t6-t8), y [multimodalidad y tecnología, T9–T10](media:dll-evolucion-t9-t10).\n\n- La categoría de plurilingüismo y lenguas adicionales presenta una concentración editorial considerable, especialmente en *Porta Linguarum*.\n- La categoría T8 incluye estudios literarios sin orientación didáctica explícita; por ello, no todo el bloque T6–T8 equivale a investigación específicamente didáctica.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      },
+      "media": [
+        {
+          "id": "dll-distribucion-global",
+          "type": "image",
+          "label": "FIGURA III.8 · PUBLICACIONES DLL",
+          "title": "Distribución temática del corpus DLL",
+          "image": "assets/media/bloque-iii/dll-distribucion-global.png",
+          "alt": "Gráfico de barras con el porcentaje de publicaciones clasificadas en cada categoría T1–T10",
+          "caption": "T5, plurilingüismo y enseñanza de lenguas adicionales, es la categoría individual con mayor peso; T6 y T7 mantienen una presencia próxima y relevante.",
+          "source": "Fuente: elaboración propia. 3.845 registros clasificados en T1–T10."
+        },
+        {
+          "id": "dll-evolucion-t1-t5",
+          "type": "image",
+          "label": "FIGURA III.9 · PUBLICACIONES DLL",
+          "title": "Evolución de las líneas de educación lingüística, T1–T5",
+          "image": "assets/media/bloque-iii/dll-evolucion-t1-t5.png",
+          "alt": "Gráfico de líneas con la evolución anual de las categorías T1 a T5 entre 2016 y 2026",
+          "caption": "El crecimiento relativo de T5 destaca dentro de un conjunto en el que las demás categorías presentan trayectorias más oscilantes.",
+          "source": "Fuente: elaboración propia. Porcentajes anuales sobre registros T1–T10; 2026 provisional e incompleto."
+        },
+        {
+          "id": "dll-evolucion-t6-t8",
+          "type": "image",
+          "label": "FIGURA III.10 · PUBLICACIONES DLL",
+          "title": "Evolución de la educación literaria, la LIJ y los estudios literarios, T6–T8",
+          "image": "assets/media/bloque-iii/dll-evolucion-t6-t8.png",
+          "alt": "Gráfico de líneas con la evolución anual de las categorías T6 a T8 entre 2016 y 2026",
+          "caption": "Las tres categorías literarias mantienen una presencia continuada, aunque su peso relativo fluctúa durante la década.",
+          "source": "Fuente: elaboración propia. Porcentajes anuales sobre registros T1–T10; 2026 provisional e incompleto."
+        },
+        {
+          "id": "dll-evolucion-t9-t10",
+          "type": "image",
+          "label": "FIGURA III.11 · PUBLICACIONES DLL",
+          "title": "Evolución de la multimodalidad, las narrativas gráficas y la tecnología educativa, T9–T10",
+          "image": "assets/media/bloque-iii/dll-evolucion-t9-t10.png",
+          "alt": "Gráfico de líneas con la evolución anual de las categorías T9 y T10 entre 2016 y 2026",
+          "caption": "T9 y T10 muestran una presencia sostenida, con fluctuaciones anuales que no configuran un crecimiento relativo lineal.",
+          "source": "Fuente: elaboración propia. Porcentajes anuales sobre registros T1–T10; 2026 provisional e incompleto."
+        }
+      ]
+    },
+    {
+      "id": "lineas-investigacion",
+      "title": "Educación literaria, multimodalidad y tecnología",
+      "lead": "Líneas de investigación vinculadas con la propuesta docente.",
+      "body": "| Líneas | Contribuciones | Peso en T1–T10 |\n| T6 + T7 · Educación literaria, formación del lector, LIJ y mediación | 810 | 21,07 % |\n| T9 + T10 · Multimodalidad, narrativas gráficas, tecnología y nuevos medios | 556 | 14,46 % |\n\nLa dimensión literaria puede examinarse mediante la [evolución conjunta de T6 y T7](media:dll-evolucion-t6-t7) y la [distribución de géneros y formas literarias](media:dll-generos-t6-t7).\n\n**Evolución relativa de las líneas multimodales y tecnológicas**\n\nT9 · Multimodalidad y narrativas gráficas · T10 · Tecnología y nuevos medios. Periodos analizados: 2016–2018, 2019–2022 y 2023–2025. La [comparación por periodos de T9 y T10](media:dll-t9-t10-periodos) muestra una presencia sostenida, pero no un crecimiento relativo lineal.\n\nPorcentajes sobre los registros T1–T10 de cada periodo.\n\n**Interpretación**\n\nLos resultados no muestran una sustitución de las líneas tradicionales de DLL por nuevas investigaciones tecnológicas, sino la convivencia de ámbitos consolidados con otros objetos del repertorio disciplinar contemporáneo. También se detecta una relación explícita relativamente limitada con Educación Infantil en algunos de estos ámbitos.\n\nLa oportunidad para la 17104 consiste en relacionar la educación literaria y la mediación con las narrativas gráficas, la alfabetización visual y la tecnología educativa desde una perspectiva profesional fundamentada.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      },
+      "media": [
+        {
+          "id": "dll-evolucion-t6-t7",
+          "type": "image",
+          "label": "FIGURA III.12 · PUBLICACIONES DLL",
+          "title": "Evolución del peso relativo de la educación literaria y la LIJ",
+          "image": "assets/media/bloque-iii/dll-evolucion-t6-t7.png",
+          "alt": "Gráfico de líneas con la evolución anual de T6 y T7 entre 2016 y 2026",
+          "caption": "T6 y T7 reúnen 810 contribuciones y el 21,07 % de los registros clasificados en T1–T10; su peso relativo conjunto disminuye en un campo temáticamente más diversificado.",
+          "source": "Fuente: elaboración propia. 2026 provisional e incompleto."
+        },
+        {
+          "id": "dll-generos-t6-t7",
+          "type": "image",
+          "label": "FIGURA III.13 · PUBLICACIONES DLL",
+          "title": "Géneros y formas literarias identificados en T6 y T7",
+          "image": "assets/media/bloque-iii/dll-generos-t6-t7.png",
+          "alt": "Gráfico que compara la distribución de géneros y formas literarias en T6 y T7",
+          "caption": "En T6 destaca la poesía; en T7 domina el cuento o relato. Los porcentajes se calculan solo sobre registros con género o forma explícitamente identificados.",
+          "source": "Fuente: elaboración propia. 152 registros con género identificado en T6 y 153 en T7."
+        },
+        {
+          "id": "dll-t9-t10-periodos",
+          "type": "image",
+          "label": "FIGURA III.14 · PUBLICACIONES DLL",
+          "title": "Evolución por periodos de T9 y T10",
+          "image": "assets/media/bloque-iii/dll-t9-t10-periodos.png",
+          "alt": "Gráfico de líneas que compara T9 y T10 en tres periodos entre 2016 y 2025",
+          "caption": "T9 mantiene un peso relativo estable; T10 presenta un descenso moderado entre 2016–2018 y 2023–2025.",
+          "source": "Fuente: elaboración propia. Porcentajes sobre T1–T10; 2026 excluido."
+        }
+      ]
+    },
+    {
+      "id": "transferencia",
+      "title": "Trayectoria de investigación, innovación y transferencia",
+      "lead": "De la innovación docente al proyecto LUMINARIA",
+      "body": "**Coordinación de Redes de Innovación:**\n\n**1 · Red 5190 · 2020–2021**\nAprendizajes plurilingües e innovación tecnológica.\n\n**2 · Red 5606 · 2021–2022**\nAlfabetización multimodal en Educación Infantil.\n\n**3 · Red 5741 · 2022–2024**\nMultimodalidad, alfabetización transmedia y álbum ilustrado.\n\n**4 · Red 6216 · 2024–2026**\nNarrativas visuales y formación literaria en Educación Infantil.\n\n**LUMINARIA · GRE24-07A · 2026–2028**\n\nCorpus curado de narrativas gráficas infantiles, análisis multimodal y plataforma digital de apoyo a la mediación. Investigador principal. Financiación: 20.000 €.\n\n**Investigación → Innovación docente → Transferencia a la 17104**\n\n- **Continuidad de las redes de innovación:** evolución desde los entornos digitales hacia la alfabetización multimodal, el álbum ilustrado y las narrativas visuales.\n- **Investigación aplicada a las prácticas docentes:** estudios sobre álbumes sin palabras, hábitos lectores y alfabetización multimodal, junto con la actividad desarrollada con *Cendrillon*, de Warja Lavater.\n- **Proyección mediante LUMINARIA:** relación entre construcción de corpus, instrumentos de análisis, tecnología educativa y transferencia a la formación inicial del profesorado.\n\nLa participación en STIAEM (2025–2027) constituye una línea complementaria relacionada con inteligencia artificial, ética e innovación educativa.",
+      "image": "",
+      "caption": "",
+      "badge": "",
+      "styles": {
+        "blockTitle": "font-size: 32px"
+      }
+    }
+  ],
+  "illustrations": [
+    {
+      "image": "assets/pedro-ranas-estudios-v1.png",
+      "caption": ""
+    },
+    {
+      "image": "assets/pedro-rana-acuarela-v1.png",
+      "caption": ""
+    }
+  ]
+}
