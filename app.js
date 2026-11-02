@@ -111,7 +111,8 @@ function applyDesign(){
  sheet.textContent=[state.presentation.styles||{},current().styles||{}].map(styles=>Object.entries(styles).map(([key,value])=>{const target=designTargets[key];if(!target||typeof value!=='string'||/[{}<>@\\]/.test(value))return '';const declarations=value.split(';').filter(x=>x.trim()).map(item=>{const split=item.indexOf(':');const property=item.slice(0,split).trim(),v=item.slice(split+1).trim();return target.properties.includes(property)&&!/(url\s*\(|!important)/i.test(v)?`${property}:${v} !important;`:''}).join('');return `${target.selector}{${declarations}}`}).join('\n')).join('\n');
 }
 
-$('#openQr').onclick=()=>{
+const openQr=$('#openQr');
+if(openQr)openQr.onclick=()=>{
  $('#mediaDialog').classList.remove('media-dialog--posters');
  $('#mediaKind').textContent='PROGRAMA DOCENTE · ACCESO DIGITAL';
  $('#mediaTitle').textContent='Programa docente completo';
