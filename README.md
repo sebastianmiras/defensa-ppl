@@ -21,6 +21,16 @@ Además de esta publicación, el proyecto cuenta con dos entregables descargable
   con todos los apartados, figuras, galerías y una página final de acceso al
   programa completo.
 
+## Aplicación portátil para Windows
+
+El flujo de GitHub Actions `Crear aplicación para Windows` genera un único
+archivo `.exe` portátil. No necesita instalación, Python ni conexión a
+internet: se descarga el artefacto `Programa-docente-Windows`, se descomprime
+y se abre el ejecutable con doble clic.
+
+La aplicación conserva la navegación, las animaciones, las figuras y las
+galerías de la versión web. `F11` activa o desactiva la pantalla completa.
+
 Atajos de la presentación:
 
 - Flechas izquierda y derecha: apartado anterior o siguiente.

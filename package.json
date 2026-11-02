@@ -1,1 +1,47 @@
-{"name":"atlas-docente-final","private":true,"version":"1.0.0","scripts":{"dev":"HOST=0.0.0.0 python3 server.py"}}
+{
+  "name": "programa-docente-sebastian-miras",
+  "productName": "Programa docente - Sebastián Miras",
+  "version": "1.0.0",
+  "description": "Programa docente para la plaza de Profesor/a Permanente Laboral DC05766",
+  "author": "Sebastián Miras Espantoso",
+  "private": true,
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "HOST=0.0.0.0 python3 server.py",
+    "desktop": "electron .",
+    "dist:win": "electron-builder --win portable --x64"
+  },
+  "devDependencies": {
+    "electron": "45.2.1",
+    "electron-builder": "26.18.0"
+  },
+  "build": {
+    "appId": "es.sebastianmiras.programadocente",
+    "productName": "Programa docente - Sebastián Miras",
+    "artifactName": "Programa-docente-Sebastian-Miras-Windows-${version}-${arch}.${ext}",
+    "asar": true,
+    "compression": "maximum",
+    "directories": {
+      "output": "dist-electron"
+    },
+    "files": [
+      "electron/**/*",
+      "index.html",
+      "app.js",
+      "style.css",
+      "design-targets.json",
+      "assets/**/*",
+      "contenidos/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    }
+  }
+}

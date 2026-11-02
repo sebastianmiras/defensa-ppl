@@ -2,3 +2,5 @@
 tmp/
 output/
 __pycache__/
+node_modules/
+dist-electron/
