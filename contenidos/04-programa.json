@@ -5,7 +5,7 @@
   "subtitle": "De los propósitos a las experiencias de aprendizaje.",
   "number": "IV",
   "color": "#a48b55",
-  "revision": 21,
+  "revision": 22,
   "sections": [
     {
       "id": "arquitectura",
@@ -47,7 +47,7 @@
       "id": "practicas",
       "title": "Metodología y prácticas",
       "lead": "Metodología teórico-práctica, comunicativa y reflexiva",
-      "body": "El alumnado aplica los conceptos al análisis de obras y situaciones educativas y justifica sus decisiones didácticas.\n\n**Analizar → Interpretar → Seleccionar → Diseñar → Justificar**\n\n**Principales actividades prácticas**\n\n| Prácticas individuales | Prácticas grupales |\n| Reseña crítica de LIJ | Lectura y debate de LIJ |\n| Reconstrucción visual de *Cendrillon* | Lírica popular infantil |\n| IV Jornadas de Narrativas Gráficas | Guía de lectura |\n| — | Elaboración de un libro ilustrado |\n| — | Diseño de una situación comunicativa |\n\nReferencias: Memoria Verificada del Grado, especialmente el trabajo cooperativo y la reflexión sobre la práctica (CE14).\n\nLa teoría proporciona herramientas de análisis y las prácticas permiten aplicarlas y revisarlas. El libro ilustrado, *Cendrillon* y las Jornadas conectan la propuesta con las líneas de innovación expuestas en el bloque III.",
+      "body": "El alumnado aplica los conceptos al análisis de obras y situaciones educativas y justifica sus decisiones didácticas.\n\n**Analizar → Interpretar → Seleccionar → Diseñar → Justificar**\n\n**Principales actividades prácticas**\n\n| Prácticas individuales | Prácticas grupales |\n| Reseña crítica de LIJ | Lectura y debate de LIJ |\n| IV Jornadas de Narrativas Gráficas | Reconstrucción visual de *Cendrillon* |\n| — | Lírica popular infantil |\n| — | Guía de lectura |\n| — | Elaboración de un libro ilustrado |\n| — | Diseño de una situación comunicativa |\n\nReferencias: Memoria Verificada del Grado, especialmente el trabajo cooperativo y la reflexión sobre la práctica (CE14).\n\nLa teoría proporciona herramientas de análisis y las prácticas permiten aplicarlas y revisarlas. El libro ilustrado, *Cendrillon* y las Jornadas conectan la propuesta con las líneas de innovación expuestas en el bloque III.",
       "image": "",
       "caption": "",
       "badge": "03:00–04:10",
@@ -59,13 +59,360 @@
       "id": "lecturas-recursos",
       "title": "Lecturas y recursos para la formación del mediador",
       "lead": "La lectura como objeto de estudio y procedimiento de aprendizaje",
-      "body": "**12 obras · Lecturas obligatorias**\n\nCorpus común que forma parte de la prueba teórica.\n\n**Corpus ampliado · Lecturas para las prácticas**\n\nSelección justificada de obras para análisis y mediación.\n\n**Recursos fundamentales**\n\n- Contacto directo con obras y materiales de literatura infantil y juvenil.\n- Bibliotecas y fuentes académicas.\n- UACloud como entorno de organización y seguimiento.\n- IV Jornadas Narrativas Gráficas para la Infancia.\n\n**Formar criterios propios de selección y mediación literaria.**\n\nCuatro obras del corpus obligatorio que pueden funcionar como apoyo visual:\n\n- *La sorpresa de Nandi*.\n- *Dos tortugas y un sombrero*.\n- *¡No interrumpas, Kika!*.\n- *Ricitos de oso*.",
+      "body": "**[12 obras · Lecturas obligatorias](media:lecturas-obligatorias)**\n\nCorpus común que forma parte de la prueba teórica.\n\n**[Corpus ampliado · Lecturas para las prácticas](media:lecturas-practicas)**\n\nSelección justificada de obras para análisis y mediación.\n\n**Recursos fundamentales**\n\n- Contacto directo con obras y materiales de literatura infantil y juvenil.\n- Bibliotecas y fuentes académicas.\n- UACloud como entorno de organización y seguimiento.\n- IV Jornadas Narrativas Gráficas para la Infancia.\n\n**Formar criterios propios de selección y mediación literaria.**",
       "image": "",
       "caption": "",
       "badge": "04:10–05:15",
       "styles": {
         "blockTitle": "font-size: 32px"
-      }
+      },
+      "media": [
+        {
+          "id": "lecturas-obligatorias",
+          "type": "table",
+          "label": "CORPUS COMÚN · 12 OBRAS",
+          "title": "Lecturas obligatorias de la asignatura",
+          "columns": [
+            "Autoría",
+            "Obra",
+            "Editorial"
+          ],
+          "rows": [
+            [
+              "Benegas, Mar y Capdevila, Olga",
+              "Con las botas de la A. Poemas para caminar",
+              "A buen paso"
+            ],
+            [
+              "Browne, Eileen",
+              "La sorpresa de Nandi",
+              "Ekaré"
+            ],
+            [
+              "Camp, Joaquín",
+              "Aníbal. Perro fantasma",
+              "A buen paso"
+            ],
+            [
+              "Deacon, Alexis",
+              "Coco y Pío",
+              "Ekaré"
+            ],
+            [
+              "Gravett, Emily",
+              "¡Otra vez!",
+              "Picarona"
+            ],
+            [
+              "Imapla",
+              "La patita fea",
+              "Océano Travesía"
+            ],
+            [
+              "Klassen, Jon",
+              "Dos tortugas y un sombrero",
+              "NubeOcho"
+            ],
+            [
+              "Odriozola, Elena",
+              "Cu cu cantaba la rana",
+              "Ediciones Modernas el Embudo"
+            ],
+            [
+              "Rosen, Michael y Oxenbury, Helen",
+              "¡Ay, caramba!",
+              "Ekaré"
+            ],
+            [
+              "Servant, Stéphane y Le Saux, Laetitia",
+              "Ricitos de oso",
+              "Juventud"
+            ],
+            [
+              "Stein, David Ezra",
+              "¡No interrumpas, Kika!",
+              "Juventud"
+            ],
+            [
+              "Van den Heuvel, Pieter",
+              "El rincón de pensar",
+              "Litera"
+            ]
+          ],
+          "caption": "Corpus común que forma parte de la prueba teórica.",
+          "source": "Programa docente de la asignatura 17104."
+        },
+        {
+          "id": "lecturas-practicas",
+          "type": "table",
+          "label": "CORPUS AMPLIADO · 51 OBRAS",
+          "title": "Lecturas para las prácticas",
+          "columns": [
+            "Autoría",
+            "Obra",
+            "Editorial"
+          ],
+          "rows": [
+            [
+              "Ahlberg, Janet y Ahlberg, Allan",
+              "El cartero simpático",
+              "Planeta"
+            ],
+            [
+              "Alemagna, Beatrice",
+              "Cosas que vienen y van",
+              "Combel"
+            ],
+            [
+              "Bachelet, Gilles",
+              "El caballero impetuoso",
+              "Juventud"
+            ],
+            [
+              "Banyai, Istvan",
+              "Zoom",
+              "Fondo de Cultura Económica"
+            ],
+            [
+              "Bass, Saul y Klein, Leonore",
+              "Henri viaja a París",
+              "Gustavo Gili"
+            ],
+            [
+              "Benegas, Mar",
+              "44 poemas para leer con niños",
+              "Litera"
+            ],
+            [
+              "Browne, Anthony",
+              "El libro de los cerdos",
+              "Kalandraka"
+            ],
+            [
+              "Browne, Anthony",
+              "En el bosque",
+              "Kalandraka"
+            ],
+            [
+              "Burningham, John",
+              "La excursión del señor Gumpy",
+              "Galimatazo"
+            ],
+            [
+              "Cerrillo, Pedro, Sánchez, César y San Vicente, L.",
+              "Arrorró. Antología de nanas hispanomexicanas",
+              "Diego Pun"
+            ],
+            [
+              "Cottin, Menena",
+              "El libro negro de los colores",
+              "Libros del Zorro Rojo"
+            ],
+            [
+              "Chmielewska, Iwona",
+              "Ojos",
+              "Tramuntana"
+            ],
+            [
+              "Delaunay, Sonia",
+              "Alfabeto",
+              "Gustavo Gili"
+            ],
+            [
+              "Fehr, Daniel y Carvalho, Bernardo",
+              "La pelota amarilla",
+              "Takatuka"
+            ],
+            [
+              "Ferrada, María José y Paschetta, Marco",
+              "Zum zum: el viaje de la semilla",
+              "A buen paso"
+            ],
+            [
+              "Fox, Mem y Oxenbury, Helen",
+              "Diez deditos",
+              "Kalandraka"
+            ],
+            [
+              "Frankel, Yael",
+              "El ascensor",
+              "Limonero"
+            ],
+            [
+              "Frankel, Yael",
+              "Excursión",
+              "Tres Tristes Tigres"
+            ],
+            [
+              "Goffin, Josse",
+              "¡OH!",
+              "Kalandraka"
+            ],
+            [
+              "Heller Algazi, Inbar",
+              "Y si Nono…",
+              "Litera Libros"
+            ],
+            [
+              "Höglund, Anna",
+              "La giganta",
+              "Ekaré"
+            ],
+            [
+              "Iglesias, Gracia y Cruz, Vicente",
+              "La extraña visita",
+              "Libre Albedrío"
+            ],
+            [
+              "Isol",
+              "La bella Griselda",
+              "Fondo de Cultura Económica"
+            ],
+            [
+              "Janisch, Heinz y Blau, Aljoscha",
+              "La batalla de Karlavach",
+              "Lóguez"
+            ],
+            [
+              "Krauss, Ruth y Sendak, Maurice",
+              "Osos",
+              "Kalandraka"
+            ],
+            [
+              "Ladrillo, Antonio",
+              "Ser un fantasma es lo mejor",
+              "Fulgencio Pimentel"
+            ],
+            [
+              "Lawson, JonArno y Smith, Sydney",
+              "Un camino de flores",
+              "Libros del Zorro Rojo"
+            ],
+            [
+              "Lee, Suzy",
+              "La ola",
+              "Barbara Fiore"
+            ],
+            [
+              "Lévy, Didier y Sangiò, Lorenzo",
+              "El poder de las historias",
+              "Ekaré"
+            ],
+            [
+              "Lionni, Leo",
+              "Cornelio",
+              "Kalandraka"
+            ],
+            [
+              "Lionni, Leo",
+              "Pequeño azul, pequeño amarillo",
+              "Kalandraka"
+            ],
+            [
+              "Mayer, Mercer",
+              "Una pesadilla en mi armario",
+              "Kalandraka"
+            ],
+            [
+              "Mistral, Gabriela y Valdivia, Paloma",
+              "Caperucita roja",
+              "Diego Pun Ediciones"
+            ],
+            [
+              "Moriconi, Renato",
+              "Bárbaro",
+              "Fondo de Cultura Económica"
+            ],
+            [
+              "Oram, Hiawyn y Kitamura, Satoshi",
+              "Fernando furioso",
+              "Ekaré"
+            ],
+            [
+              "Ortega, Natacha y Franco, Lucía",
+              "Pájaros",
+              "Kalandraka"
+            ],
+            [
+              "París, Ramón",
+              "Estaba la rana",
+              "Ekaré"
+            ],
+            [
+              "Perret, Delphine",
+              "Una gran historia de vaqueros",
+              "Limonero"
+            ],
+            [
+              "Popov, Nikolai",
+              "¿Por qué?",
+              "Kalandraka"
+            ],
+            [
+              "Sáez, Javier",
+              "Libro Caracol",
+              "Fondo de Cultura Económica"
+            ],
+            [
+              "Sáez, Javier",
+              "Los tres erizos",
+              "Ekaré"
+            ],
+            [
+              "Silverstein, Shel",
+              "El árbol generoso",
+              "Kalandraka"
+            ],
+            [
+              "Sís, Peter",
+              "Madlenka",
+              "Ekaré"
+            ],
+            [
+              "Soderguit, Alfredo",
+              "Los carpinchos",
+              "Ekaré"
+            ],
+            [
+              "Suh, Sunjung",
+              "Un día",
+              "Océano Travesía"
+            ],
+            [
+              "Tidholm, Ana Clara",
+              "Toc toc",
+              "Océano Travesía"
+            ],
+            [
+              "Turin, Adela y Bosnia, Nella",
+              "Rosa caramelo",
+              "Kalandraka"
+            ],
+            [
+              "Turin, Adela y Bosnia, Nella",
+              "Una feliz catástrofe",
+              "Kalandraka"
+            ],
+            [
+              "Ungerer, Tomi",
+              "Allumette",
+              "Kalandraka"
+            ],
+            [
+              "Ungerer, Tomi",
+              "El ogro de Zeralda",
+              "Ekaré"
+            ],
+            [
+              "Uribe, María de la Luz y Krahn, Fernando",
+              "Doña Piñones",
+              "Ekaré"
+            ]
+          ],
+          "caption": "Selección ampliada para el análisis, la mediación y el desarrollo de las actividades prácticas.",
+          "source": "Programa docente de la asignatura 17104."
+        }
+      ]
     },
     {
       "id": "temporalizacion",

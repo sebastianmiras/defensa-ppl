@@ -84,7 +84,7 @@ function bindMediaGallery(item){
  $('[data-gallery-prev]').onclick=()=>show(index-1);$('[data-gallery-next]').onclick=()=>show(index+1);document.querySelectorAll('[data-gallery-index]').forEach(button=>button.onclick=()=>show(Number(button.dataset.galleryIndex)));
 }
 function bindMediaLinks(){
- document.querySelectorAll('[data-media-id]').forEach(button=>button.onclick=()=>{const item=(current().media||[]).find(x=>x.id===button.dataset.mediaId);if(!item)return toast('Este material todavía no está disponible');$('#mediaDialog').classList.toggle('media-dialog--posters',item.presentation==='posters');$('#mediaKind').textContent=item.label||'MATERIAL';$('#mediaTitle').textContent=item.title||'';$('#mediaBody').innerHTML=mediaMarkup(item);bindMediaGallery(item);$('#mediaCaption').textContent=item.caption||'';$('#mediaSource').textContent=item.source||'';$('#mediaDialog').showModal()});
+ document.querySelectorAll('[data-media-id]').forEach(button=>button.onclick=()=>{const item=(current().media||[]).find(x=>x.id===button.dataset.mediaId);if(!item)return toast('Este material todavía no está disponible');$('#mediaDialog').classList.toggle('media-dialog--posters',item.presentation==='posters');$('#mediaDialog').classList.toggle('media-dialog--large-image',item.presentation==='large-image');$('#mediaKind').textContent=item.label||'MATERIAL';$('#mediaTitle').textContent=item.title||'';$('#mediaBody').innerHTML=mediaMarkup(item);bindMediaGallery(item);$('#mediaCaption').textContent=item.caption||'';$('#mediaSource').textContent=item.source||'';$('#mediaDialog').showModal()});
 }
 function animateIllustrations(selector){
  if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;

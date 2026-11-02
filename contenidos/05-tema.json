@@ -5,7 +5,7 @@
   "subtitle": "Conceptos, obras y propuestas de intervención.",
   "number": "V",
   "color": "#8b7182",
-  "revision": 40,
+  "revision": 51,
   "sections": [
     {
       "id": "entrada",
@@ -35,7 +35,7 @@
       "id": "objetivos-resultados",
       "title": "Qué debe aprender el futuro docente",
       "lead": "Objetivos y resultados de aprendizaje del Tema 4",
-      "body": "| Dimensión | Aprendizaje esperado |\n| Reconocimiento | Caracterizar el álbum y sus componentes |\n| Análisis | Interpretar relaciones texto-imagen y recursos visuales |\n| Interpretación | Reconstruir secuencias y formular inferencias |\n| Valoración | Seleccionar y justificar obras para Educación Infantil |\n| Producción | Elaborar y fundamentar narrativas multimodales |\n| Reflexión crítica | Contrastar los usos de recursos digitales e IA |\n\nObjetivos específicos de la asignatura: **OE4, OE7 y OE8**. Competencias especialmente vinculadas: **CG9, CE7 y CE14**.\n\nEl programa desarrolla siete resultados de aprendizaje específicos, RA4.1 a RA4.7, sintetizados en estas seis dimensiones.",
+      "body": "Objetivos específicos de la asignatura: **OE4, OE7 y OE8**. Competencias especialmente vinculadas: **CG9, CE7 y CE14**.\n\nEl programa desarrolla siete resultados de aprendizaje específicos, RA4.1 a RA4.7, sintetizados en estas seis dimensiones.\n\n| Dimensión | Aprendizaje esperado |\n| Reconocimiento | Caracterizar el álbum y sus componentes |\n| Análisis | Interpretar relaciones texto-imagen y recursos visuales |\n| Interpretación | Reconstruir secuencias y formular inferencias |\n| Valoración | Seleccionar y justificar obras para Educación Infantil |\n| Producción | Elaborar y fundamentar narrativas multimodales |\n| Reflexión crítica | Contrastar los usos de recursos digitales e IA |",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
@@ -59,7 +59,7 @@
       "id": "componentes-album",
       "title": "Texto, imagen, secuencia y materialidad",
       "lead": "Cuatro preguntas para analizar el libro-álbum",
-      "body": "| Componente | Pregunta de análisis |\n| Texto | ¿Qué aporta la palabra a la narración? |\n| Imagen | ¿Qué se representa y cómo se representa? |\n| Secuencia | ¿Cómo se organiza la progresión narrativa? |\n| Materialidad | ¿Cómo interviene el objeto-libro en el sentido? |\n\n**Obras de referencia**\n\n- *Dos tortugas y un sombrero*: información verbal y visual.\n- *La ola*: secuencia.\n- *El cartero simpático*: materialidad.\n\nLos componentes no actúan de manera aislada, sino conjuntamente.",
+      "body": "| Componente | Pregunta de análisis |\n| Texto | ¿Qué aporta la palabra a la narración? |\n| Imagen | ¿Qué se representa y cómo se representa? |\n| Secuencia | ¿Cómo se organiza la progresión narrativa? |\n| Materialidad | ¿Cómo interviene el objeto-libro en el sentido? |\n\n**Obras de referencia**\n\n- *Dos tortugas y un sombrero*: información verbal y visual.\n- *Un camino de flores*: secuencia.\n- *El cartero simpático*: materialidad.\n\nLos componentes no actúan de manera aislada, sino conjuntamente.",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
@@ -83,13 +83,38 @@
       "id": "lectura",
       "title": "Dos tortugas y un sombrero, de Jon Klassen",
       "lead": "La información narrativa se distribuye entre palabra e imagen",
-      "body": "- Lo que expresan los personajes.\n- Lo que muestran las ilustraciones.\n- Lo que puede inferir el lector.\n\n**¿Cómo cambia la interpretación cuando consideramos simultáneamente ambos modos?**\n\nEl análisis de un indicio visual concreto permite pasar de la clasificación teórica a la lectura efectiva de la obra y reconocer la diferencia entre información verbal y visual.",
+      "body": "- Lo que expresan los personajes.\n- Lo que muestran las ilustraciones.\n- Lo que puede inferir el lector.\n\n**¿Cómo cambia la interpretación cuando consideramos simultáneamente ambos modos?**\n\nEl análisis de un indicio visual concreto permite pasar de la clasificación teórica a la lectura efectiva de la obra y reconocer la diferencia entre información verbal y visual.\n\n**[Ver obra](media:dos-tortugas-obra)**",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
       "styles": {
         "blockTitle": "font-size: 29px"
-      }
+      },
+      "media": [
+        {
+          "id": "dos-tortugas-obra",
+          "type": "gallery",
+          "presentation": "posters",
+          "label": "OBRA · SECUENCIA VISUAL",
+          "title": "Dos tortugas y un sombrero",
+          "images": [
+            {
+              "src": "assets/dos-tortugas-1.jpg",
+              "alt": "Primera imagen de Dos tortugas y un sombrero"
+            },
+            {
+              "src": "assets/dos-tortugas-2.jpg",
+              "alt": "Segunda imagen de Dos tortugas y un sombrero"
+            },
+            {
+              "src": "assets/dos-tortugas-3.jpg",
+              "alt": "Tercera imagen de Dos tortugas y un sombrero"
+            }
+          ],
+          "caption": "Tres imágenes para observar cómo la información narrativa se distribuye entre palabra e ilustración.",
+          "source": "Dos tortugas y un sombrero, de Jon Klassen."
+        }
+      ]
     },
     {
       "id": "alfabetizacion-visual",
@@ -119,25 +144,59 @@
       "id": "zoom",
       "title": "Zoom, de Istvan Banyai",
       "lead": "Perspectiva y revisión de hipótesis",
-      "body": "**Conceptos que permite trabajar**\n\n- Perspectiva y punto de vista.\n- Secuencialidad.\n- Reinterpretación de la información visual.\n- Formulación y revisión de hipótesis.\n\n**¿Qué ocurre con nuestra primera interpretación cuando cambia el encuadre?**\n\nLa secuencia obliga a revisar interpretaciones anteriores y convierte el cambio de punto de vista en el núcleo de la lectura.",
+      "body": "**Conceptos que permite trabajar**\n\n- Perspectiva y punto de vista.\n- Secuencialidad.\n- Reinterpretación de la información visual.\n- Formulación y revisión de hipótesis.\n\n**¿Qué ocurre con nuestra primera interpretación cuando cambia el encuadre?**\n\nLa secuencia obliga a revisar interpretaciones anteriores y convierte el cambio de punto de vista en el núcleo de la lectura.\n\n**[Ver obra](media:zoom-obra)**",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
       "styles": {
         "blockTitle": "font-size: 29px"
-      }
+      },
+      "media": [
+        {
+          "id": "zoom-obra",
+          "type": "image",
+          "presentation": "large-image",
+          "label": "OBRA · PERSPECTIVA Y SECUENCIA",
+          "title": "Zoom",
+          "image": "assets/zoom.jpg",
+          "alt": "Imagen de la obra Zoom, de Istvan Banyai",
+          "caption": "Una imagen para observar cómo el cambio de encuadre obliga a revisar la interpretación.",
+          "source": "Zoom, de Istvan Banyai."
+        }
+      ]
     },
     {
       "id": "secuencialidad",
       "title": "Secuencialidad y álbumes sin palabras",
       "lead": "La construcción inferencial del relato",
-      "body": "Leer una secuencia visual exige reconstruir relaciones temporales y causales.\n\n**Operaciones del lector**\n\n- Identificar continuidades y transformaciones.\n- Reconocer elipsis y anticipaciones.\n- Establecer relaciones entre escenas.\n- Formular y contrastar hipótesis.\n- Verbalizar la interpretación.\n\nÁlbumes de referencia: *La ola* y *Un camino de flores*.\n\nLa ausencia de palabras no simplifica necesariamente la lectura: desplaza al lector una parte importante del trabajo de reconstrucción narrativa.",
+      "body": "Leer una secuencia visual exige reconstruir relaciones temporales y causales.\n\n**Operaciones del lector**\n\n- Identificar continuidades y transformaciones.\n- Reconocer elipsis y anticipaciones.\n- Establecer relaciones entre escenas.\n- Formular y contrastar hipótesis.\n- Verbalizar la interpretación.\n\nÁlbum de referencia: [*Un camino de flores*](media:camino-flores-obra).\n\nLa ausencia de palabras no simplifica necesariamente la lectura: desplaza al lector una parte importante del trabajo de reconstrucción narrativa.",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
       "styles": {
         "blockTitle": "font-size: 29px"
-      }
+      },
+      "media": [
+        {
+          "id": "camino-flores-obra",
+          "type": "gallery",
+          "presentation": "posters",
+          "label": "OBRA · SECUENCIA VISUAL",
+          "title": "Un camino de flores",
+          "images": [
+            {
+              "src": "assets/camino-flores-1.jpg",
+              "alt": "Primera imagen de Un camino de flores"
+            },
+            {
+              "src": "assets/camino-flores-2.jpg",
+              "alt": "Segunda imagen de Un camino de flores"
+            }
+          ],
+          "caption": "Dos imágenes para observar la continuidad, las transformaciones y la reconstrucción narrativa en una secuencia sin palabras.",
+          "source": "Un camino de flores, de JonArno Lawson y Sydney Smith."
+        }
+      ]
     },
     {
       "id": "multimodalidad",
@@ -155,13 +214,25 @@
       "id": "interaccion-modos",
       "title": "La interpretación del álbum como totalidad",
       "lead": "El significado depende de cada modo y de las relaciones que se establecen entre ellos",
-      "body": "**Tres preguntas de análisis**\n\n1. ¿Qué información aporta cada modo?\n2. ¿Qué significados surgen de su interacción?\n3. ¿Cómo participa el lector en su reconstrucción?\n\nEjemplo: *El libro negro de los colores*, de Menena Cottin.\n\nLa obra permite abordar la materialidad, la representación sensorial y las posibilidades de lectura que exceden la percepción exclusivamente visual.\n\nReferencia: Pacheco-Costa y Guzmán-Simón (2020).",
+      "body": "**Tres preguntas de análisis**\n\n1. ¿Qué información aporta cada modo?\n2. ¿Qué significados surgen de su interacción?\n3. ¿Cómo participa el lector en su reconstrucción?\n\nEjemplo: [*El libro negro de los colores*](media:libro-negro-colores), de Menena Cottin.\n\nLa obra permite abordar la materialidad, la representación sensorial y las posibilidades de lectura que exceden la percepción exclusivamente visual.\n\nReferencia: Pacheco-Costa y Guzmán-Simón (2020).",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
       "styles": {
         "blockTitle": "font-size: 29px"
-      }
+      },
+      "media": [
+        {
+          "id": "libro-negro-colores",
+          "type": "image",
+          "label": "OBRA · MATERIALIDAD Y PERCEPCIÓN",
+          "title": "El libro negro de los colores",
+          "image": "assets/libro-negro-colores.png",
+          "alt": "Imagen del álbum El libro negro de los colores, de Menena Cottin",
+          "caption": "Una propuesta que articula materialidad, representación sensorial y lectura más allá de la percepción exclusivamente visual.",
+          "source": "El libro negro de los colores, de Menena Cottin."
+        }
+      ]
     },
     {
       "id": "transduccion",
@@ -179,25 +250,69 @@
       "id": "metaficcion",
       "title": "Metaficción y experimentación narrativa",
       "lead": "Cuando el álbum hace visibles sus propias convenciones",
-      "body": "| Procedimiento | Qué puede exigir al lector |\n| Ruptura de fronteras narrativas | Reconocer los límites entre ficción y lector |\n| Libro dentro del libro | Interpretar la autorreferencia |\n| Materialidad narrativa | Incorporar el objeto-libro al relato |\n| Tensión texto-imagen | Revisar la interpretación |\n| Intertextualidad y parodia | Activar conocimientos culturales previos |\n\nReferencia: Amo Sánchez-Fortún (2010).\n\nObras de referencia: *El cartero simpático*, por sus documentos insertos, materialidad e intertextualidad; y *¡OH!*, de Josse Goffin, por la transformación visual, el paso de página y las expectativas del lector.\n\n**La experimentación formal interesa por la actividad interpretativa que provoca.**",
+      "body": "| Procedimiento | Qué puede exigir al lector |\n| Ruptura de fronteras narrativas | Reconocer los límites entre ficción y lector |\n| Libro dentro del libro | Interpretar la autorreferencia |\n| Materialidad narrativa | Incorporar el objeto-libro al relato |\n| Tensión texto-imagen | Revisar la interpretación |\n| Intertextualidad y parodia | Activar conocimientos culturales previos |\n\nObras de referencia: [*El cartero simpático*](media:cartero-simpatico), por sus documentos insertos, materialidad e intertextualidad; [*Y si Nono...*](media:y-si-nono), de Inbar Heller Algazi, por el juego con la materialidad.\n\n**La experimentación formal interesa por la actividad interpretativa que provoca.**",
       "image": "",
       "caption": "",
       "badge": "2 MIN",
       "styles": {
         "blockTitle": "font-size: 29px"
-      }
+      },
+      "media": [
+        {
+          "id": "cartero-simpatico",
+          "type": "image",
+          "label": "OBRA · METAFICCIÓN Y MATERIALIDAD",
+          "title": "El cartero simpático",
+          "image": "assets/cartero-simpatico.jpg",
+          "alt": "Imagen del álbum El cartero simpático",
+          "caption": "Los documentos insertos, la materialidad y la intertextualidad forman parte de la construcción narrativa.",
+          "source": "El cartero simpático, de Janet y Allan Ahlberg."
+        },
+        {
+          "id": "y-si-nono",
+          "type": "image",
+          "presentation": "large-image",
+          "label": "OBRA · JUEGO CON LA MATERIALIDAD",
+          "title": "Y si Nono…",
+          "image": "assets/ysinono.jpg",
+          "alt": "Imagen del álbum Y si Nono…, de Inbar Heller Algazi",
+          "caption": "La obra propone un juego metaficcional apoyado en las posibilidades materiales del álbum.",
+          "source": "Y si Nono…, de Inbar Heller Algazi."
+        }
+      ]
     },
     {
       "id": "corpus-nuclear",
       "title": "Corpus nuclear del Tema 4",
       "lead": "Un corpus diverso para el análisis y la mediación",
-      "body": "| Obra | Posibilidad de análisis |\n| *El cartero simpático* | Materialidad e intertextualidad |\n| *Zoom* | Perspectiva y secuencia |\n| *El libro de los cerdos* | Relaciones texto-imagen |\n| *El libro negro de los colores* | Materialidad y percepción |\n| *¡OH!* | Paso de página |\n| *Dos tortugas y un sombrero* | Información verbal y visual |\n| *Un camino de flores* | Narración sin palabras |\n| *La ola* | Secuencialidad y espacio |\n| *Pequeño azul, pequeño amarillo* | Abstracción y color |\n| *Bárbaro* | Inferencia retrospectiva |\n| *Madlenka* | Organización espacial |\n| *Cendrillon* | Narración visual codificada |\n\n**Criterios de selección**\n\n- Calidad literaria, visual y editorial.\n- Diversidad estética y formal.\n- Capacidad para ejemplificar y problematizar contenidos.\n- Potencial para la mediación en Educación Infantil.",
+      "body": "| Obra | Posibilidad de análisis |\n| *El cartero simpático* | Materialidad e intertextualidad |\n| *Zoom* | Perspectiva y secuencia |\n| *El libro de los cerdos* | Relaciones texto-imagen |\n| *El libro negro de los colores* | Materialidad y percepción |\n| *¡OH!* | Paso de página |\n| *Dos tortugas y un sombrero* | Información verbal y visual |\n| *Un camino de flores* | Narración sin palabras |\n| *La ola* | Secuencialidad y espacio |\n| *Pequeño azul, pequeño amarillo* | Abstracción y color |\n| [*Bárbaro*](media:barbaro-obra) | Inferencia retrospectiva |\n| *Madlenka* | Organización espacial |\n| *Cendrillon* | Narración visual codificada |\n\n**Criterios de selección**\n\n- Calidad literaria, visual y editorial.\n- Diversidad estética y formal.\n- Capacidad para ejemplificar y problematizar contenidos.\n- Potencial para la mediación en Educación Infantil.",
       "image": "",
       "caption": "",
       "badge": "3 MIN",
       "styles": {
         "blockTitle": "font-size: 29px"
-      }
+      },
+      "media": [
+        {
+          "id": "barbaro-obra",
+          "type": "gallery",
+          "presentation": "posters",
+          "label": "OBRA · INFERENCIA RETROSPECTIVA",
+          "title": "Bárbaro",
+          "images": [
+            {
+              "src": "assets/barbaro-1.jpg",
+              "alt": "Primera imagen del álbum Bárbaro"
+            },
+            {
+              "src": "assets/barbaro-2.jpg",
+              "alt": "Segunda imagen del álbum Bárbaro"
+            }
+          ],
+          "caption": "Dos imágenes para observar cómo la interpretación inicial se reorganiza retrospectivamente.",
+          "source": "Bárbaro, de Renato Moriconi."
+        }
+      ]
     },
     {
       "id": "lecturas-academicas",
@@ -271,7 +386,7 @@
       "id": "cendrillon-reconstruccion",
       "title": "Cendrillon (1976), de Warja Lavater",
       "lead": "Veinte secuencias visuales para reconstruir un relato",
-      "body": "1. Recibir las veinte tarjetas desordenadas, sin la leyenda de códigos.\n2. Identificar recurrencias, posiciones, tamaños y colores.\n3. Proponer y justificar una ordenación narrativa.\n4. Distribuir las escenas en cinco fases narrativas.\n5. Elaborar descripciones verbales de las escenas.\n\n**Fases:** situación inicial, conflicto, desarrollo, resolución y situación final.\n\nLa fotografía de la práctica incluida en el programa, *aula-lavater.jpg*, constituye la evidencia visual preferente para esta página.",
+      "body": "1. Recibir las veinte tarjetas desordenadas, sin la leyenda de códigos.\n2. Identificar recurrencias, posiciones, tamaños y colores.\n3. Proponer y justificar una ordenación narrativa.\n4. Distribuir las escenas en cinco fases narrativas.\n5. Elaborar descripciones verbales de las escenas.\n\n**Fases:** situación inicial, conflicto, desarrollo, resolución y situación final.",
       "image": "",
       "caption": "",
       "badge": "2 MIN",

@@ -1,0 +1,110 @@
+/* Ventanas de materiales: cabecera discreta y mayor protagonismo visual. */
+.media-dialog {
+  width: min(94vw, 1280px);
+  max-height: 94svh;
+}
+
+.media-dialog-inner {
+  max-height: 94svh;
+  padding: clamp(20px, 2.6vw, 34px);
+}
+
+.media-dialog .eyebrow {
+  font-size: 8px;
+  line-height: 1.35;
+}
+
+.media-dialog h2,
+.media-dialog--posters h2 {
+  max-width: 980px;
+  margin: 6px 52px 18px 0;
+  font-size: clamp(22px, 2.2vw, 32px);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+}
+
+.media-dialog-image {
+  max-height: calc(94svh - 132px);
+}
+
+.media-gallery-stage {
+  min-height: 0;
+  padding: 12px;
+}
+
+.media-gallery-stage > img {
+  height: clamp(380px, 66svh, 720px);
+  max-height: none;
+}
+
+.media-dialog--posters .media-dialog-inner {
+  padding: 20px 28px 18px;
+}
+
+.media-dialog--posters .media-gallery-stage > img {
+  height: clamp(420px, calc(94svh - 230px), 760px);
+}
+
+.media-dialog--large-image {
+  width: min(96vw, 1280px);
+  height: 94svh;
+  max-height: 94svh;
+}
+
+.media-dialog--large-image #mediaBody {
+  display: grid;
+  place-items: center;
+  padding: 14px;
+  border: 1px solid var(--line);
+  background: #e5e6dd;
+}
+
+.media-dialog--large-image .media-dialog-image {
+  width: min(100%, calc(94svh - 210px), 900px);
+  height: auto;
+  max-height: calc(94svh - 210px);
+}
+
+.media-caption {
+  margin-top: 18px;
+}
+
+@media (max-width: 700px) {
+  .media-dialog {
+    width: 96vw;
+    max-height: 94svh;
+  }
+
+  .media-dialog-inner,
+  .media-dialog--posters .media-dialog-inner {
+    max-height: 94svh;
+    padding: 18px 14px;
+  }
+
+  .media-dialog h2,
+  .media-dialog--posters h2 {
+    margin: 4px 38px 14px 0;
+    font-size: clamp(20px, 5.4vw, 25px);
+  }
+
+  .media-dialog-image {
+    max-height: calc(94svh - 112px);
+  }
+
+  .media-gallery-stage > img {
+    height: 58svh;
+  }
+
+  .media-dialog--posters .media-gallery-stage > img {
+    height: 60svh;
+  }
+
+  .media-dialog--large-image #mediaBody {
+    padding: 8px;
+  }
+
+  .media-dialog--large-image .media-dialog-image {
+    width: min(100%, calc(94svh - 180px));
+    max-height: calc(94svh - 180px);
+  }
+}
