@@ -12,12 +12,14 @@ La publicación está preparada para GitHub Pages:
 
 ## Versiones offline y PDF
 
-Además de esta publicación, el proyecto cuenta con dos entregables locales:
+Además de esta publicación, el proyecto cuenta con dos entregables descargables:
 
-- Un paquete offline para macOS, con un lanzador de doble clic que busca un
-  puerto libre y abre la presentación automáticamente.
-- Un PDF 16:9 ordenado de 103 páginas, con todos los apartados, figuras,
-  galerías y una página final de acceso al programa completo.
+- [Paquete offline para macOS](https://sebastianmiras.github.io/defensa-ppl/descargas/Programa-docente-offline.zip),
+  con un lanzador de doble clic que busca un puerto libre y abre la presentación
+  automáticamente.
+- [PDF 16:9 de 103 páginas](https://sebastianmiras.github.io/defensa-ppl/documentos/Programa-docente-Sebastian-Miras.pdf),
+  con todos los apartados, figuras, galerías y una página final de acceso al
+  programa completo.
 
 Atajos de la presentación:
 
