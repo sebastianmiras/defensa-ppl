@@ -28,6 +28,8 @@ archivo `.exe` portátil. No necesita instalación, Python ni conexión a
 internet: se descarga el artefacto `Programa-docente-Windows`, se descomprime
 y se abre el ejecutable con doble clic.
 
+[Descargar Programa docente para Windows](https://github.com/sebastianmiras/defensa-ppl/releases/download/v1.0.0-windows/Programa-docente-Sebastian-Miras-Windows-1.0.0-x64.exe)
+
 La aplicación conserva la navegación, las animaciones, las figuras y las
 galerías de la versión web. `F11` activa o desactiva la pantalla completa.
 
