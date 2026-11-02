@@ -28,7 +28,7 @@ jobs:
       - name: Preparar sitio
         run: |
           mkdir _site
-          cp -R index.html app.js style.css design-targets.json .nojekyll assets contenidos documentos descargas _site/
+          cp -R index.html app.js style.css design-targets.json .nojekyll assets contenidos _site/
       - name: Subir artefacto
         uses: actions/upload-pages-artifact@v3
         with:

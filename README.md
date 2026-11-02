@@ -10,34 +10,20 @@ La publicación está preparada para GitHub Pages:
 
 <https://sebastianmiras.github.io/defensa-ppl/>
 
-## Versión offline
+## Versiones offline y PDF
 
-En macOS, descomprime el paquete y haz doble clic en
-`Abrir presentación.command`. El lanzador busca un puerto libre y abre la
-presentación automáticamente en el navegador predeterminado.
+Además de esta publicación, el proyecto cuenta con dos entregables locales:
 
-Como alternativa, desde Terminal:
+- Un paquete offline para macOS, con un lanzador de doble clic que busca un
+  puerto libre y abre la presentación automáticamente.
+- Un PDF 16:9 ordenado de 103 páginas, con todos los apartados, figuras,
+  galerías y una página final de acceso al programa completo.
 
-1. Ejecuta `bash iniciar.sh` en esta carpeta.
-2. Abre `http://127.0.0.1:5174/` en el navegador.
-
-La versión final utiliza el puerto 5174 para poder ejecutarse al mismo tiempo
-que el proyecto de trabajo, que normalmente ocupa el 5173.
-
-Atajos durante la presentación:
+Atajos de la presentación:
 
 - Flechas izquierda y derecha: apartado anterior o siguiente.
 - `Esc`: volver al atlas desde un bloque.
 - `F`: entrar o salir de pantalla completa.
-
-El servidor solo admite lectura. Las peticiones de escritura devuelven el
-estado HTTP 405.
-
-## PDF
-
-La carpeta `documentos` contiene una versión PDF ordenada de toda la
-presentación, incluidas las figuras, las galerías y la página final de acceso
-al programa docente completo.
 
 ## Programa docente completo
 
